@@ -1,0 +1,1 @@
+ffmpeg -i original.mp4 -s 480x272 testing.avi

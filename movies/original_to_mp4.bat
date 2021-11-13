@@ -1,0 +1,1 @@
+for %%1 in (original_pmf\*) do ffmpeg -i original_pmf\%%~n1.pmf -s 480x272 original_mp4\%%~n1.mp4
