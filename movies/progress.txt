@@ -7,7 +7,7 @@ Done  - final
 
 Episode 1
 ID00021: Sign
-ID00019: WIP
+ID00019: Cut
 ID00025: WIP
 ID00023: WIP
 ID08408: Check
