@@ -8,7 +8,7 @@ Done  - final
 Episode 1
 ID00021: Sign
 ID00019: Cut
-ID00025: WIP
+ID00025: Cut, missing "cutter retracting" cut at 00:18
 ID00023: WIP
 ID08408: Check
 ID00029: WIP
