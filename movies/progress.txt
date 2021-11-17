@@ -1,9 +1,10 @@
 Status:
-WIP   - still need to do the cutting
-Cut   - basic cuts done, need remaking original signs
-Sign  - signs done, needs subs
-Check - completed, needs to be checked in-game
-Done  - final
+WIP    - still need to do the cutting
+Cut    - basic cuts done, need remaking original signs
+Sign   - signs done, needs subs
+Render - completed, needs to rendered
+Check  - rendered, needs to be checked in-game
+Done   - final
 
 Episode 1
 ID00021: Sign
@@ -40,7 +41,9 @@ ID00057: WIP
 ID00055: WIP
 ID00059: WIP
 ID00061: WIP
-ID08416: WIP
+ID08416: Render
+ID08417: Render
+ID08418: Render
 
 Episode 7
 ID00065: WIP
@@ -105,8 +108,6 @@ ID08377: WIP
 ID08378: WIP
 ID08379: WIP
 ID08404: WIP
-ID08417: WIP
-ID08418: WIP
 ID08424: WIP
 ID08427: WIP
 ID08437: WIP
