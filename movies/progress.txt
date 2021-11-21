@@ -35,6 +35,7 @@ ID00047: WIP
 Episode 5
 ID00053: WIP
 ID00051: WIP
+ID08489: WIP
 
 Episode 6
 ID00057: WIP
@@ -58,6 +59,7 @@ Episode 9
 ID00073: WIP
 ID00071: WIP
 ID00077: WIP
+ID08523: Render
 
 Episode 10
 ID00075: WIP
@@ -78,29 +80,28 @@ ID00093: WIP
 ID00091: WIP
 ID00097: WIP
 ID08424: Render
+ID08455: Render
 
-Episode 13 - Re-render
+Episode 13
 ID00095: WIP
 ID00101: WIP
 ID08427: Render
 
 Episode 14
-
+ID08488: Render
 
 Episode 15
 ID00099: WIP
 ID00011: WIP
-ID08509: WIP
-ID08511: WIP
-ID08546: WIP
-
+ID08509: Render
+ID08511: Render
 
 
 Misc
 ID00109: WIP - Original OP movie
 ID00001: WIP - Original Staff credits
 ID00102: Check - ED1
-ID00104: WIP - ED2 (not included as creditless in the BDs)
+ID00104: WIP   - ED2 (not included as creditless in the BDs)
 ID00106: Check - ED3
 
 Unknown
@@ -114,13 +115,5 @@ ID00017: WIP
 
 Small
 ID08404: WIP
-ID08443: WIP
-ID08455: WIP
-ID08488: WIP
-ID08489: WIP
 ID08507: WIP
 ID08510: WIP
-ID08520: WIP
-ID08522: WIP
-ID08523: WIP
-ID08524: WIP
