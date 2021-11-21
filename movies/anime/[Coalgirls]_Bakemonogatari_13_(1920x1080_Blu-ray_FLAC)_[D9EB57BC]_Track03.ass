@@ -10,6 +10,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Scroll Position: 758
+Active Line: 810
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -844,7 +846,7 @@ Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\fs52.5\pos(998,357
 Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\fs60\pos(954,632)\1a&H23}Hanekawa Tsubasa
 Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\pos(1126,786)\1a&H23}1 new
 Dialogue: 0,0:07:26.05,0:07:28.55,block,,0,0,0,,{\an7\1c&H8DC4D8&\pos(611,538)\fscx3771.25\fscy895}A
-Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\blur0.5\fs105\pos(1177,253)}Voice Actress/Chiwa Saitou
+Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\blur0.5\fs105\pos(1177,253)}Voice Actress/Chiwa Saito
 Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\blur0.5\pos(1446,537)}(Works for Aim Enterprise)
 Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\an7\fs42\blur0.5\pos(633,563)}Born in Saitama Prefecture. Voices strong-willed women,\Nweak women, lively girls and even boys.\NPlayed animals, non-human characters,\Neccentric guys speaking in low voice,\Nand other types of characters too.
 Dialogue: 1,0:07:26.05,0:07:28.55,Century,,0,0,0,,{\blur0.5\1c&H0E1B23&\fs37.5\pos(345,874)}Animation Number 79
