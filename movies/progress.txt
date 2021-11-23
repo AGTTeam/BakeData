@@ -13,7 +13,7 @@ ID00025: Cut
 ID00023: Cut
 ID08408: Check
 ID00029: Cut
-ID00027: WIP
+ID00027: Cut
 
 Episode 2
 ID00033: WIP
@@ -36,6 +36,7 @@ Episode 5
 ID00053: WIP
 ID00051: WIP
 ID08489: Render
+ID00003: Sign
 
 Episode 6
 ID00057: WIP
@@ -54,6 +55,7 @@ ID08437: Render
 
 Episode 8
 ID00067: WIP
+ID00007: Sign
 
 Episode 9
 ID00073: WIP
@@ -101,17 +103,13 @@ ID08511: Render
 
 
 Misc
-ID00109: WIP - Original OP movie
-ID00001: WIP - Original Staff credits
+ID00109: WIP   - Original OP movie
+ID00001: WIP   - Original Staff credits
 ID00102: Check - ED1
 ID00104: WIP   - ED2 (not included as creditless in the BDs)
 ID00106: Check - ED3
-
-Unknown
-ID00003: WIP
-ID00005: WIP
-ID00007: WIP
-ID00009: WIP
-ID00013: WIP
-ID00015: WIP
-ID00017: WIP
+ID00005: Cut   - Karen Extra, added cuts from episode 5
+ID00009: Cut   - Tsukihi Extra, added cuts from episode 2
+ID00013: WIP   - Meme Extra
+ID00015: WIP   - Shinobu
+ID00017: WIP   - Shinobu Extra
