@@ -1,0 +1,769 @@
+﻿ID00005_01.png
+No text, just subs (上の妹=eldest younger sister)
+
+ID00005_02.png
+阿良々木 火憐=Karen Araragi
+
+ID00005_03.png
+中學=Middle School
+三年生=3rd Year
+#This is the equivalent of 9th Grade/Freshman at High School in the US. Not sure which you’d like to use.
+
+ID00005_04.png
+ポニーテイル=Ponytail
+
+ID00005_05.png
+格好イイ=cool#qc matches second half of the subs
+
+ID00005_06.png
+男勝リ=manly#qc matches first part of the subs
+トマデハ言ハナイガ、=I wouldn’t go as far as to say…#qc
+
+ID00005_07.png
+吊リ目モ=almond-shaped eyes#qc
+
+ID00005_08.png
+手傳ツテ=help#qc (手伝って)
+
+ID00005_09.png
+第陸話=Episode 6
+dai. roku. wa.
+かれんエクストラ=Karen Extra#(or bonus)
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00009_01.png
+No text, just subs (続いて下の妹=Continuing to the youngest sister)
+
+ID00009_02.png
+阿良々木 月火=Tsukihi Araragi
+
+ID00009_03.png
+大人シゲナ=mature
+
+ID00009_04.png
+タレ目=drooping eyes
+
+ID00009_05.png
+怒=Anger
+
+ID00009_06.png
+karen.
+
+ID00009_07.png
+tsukihi.
+ID00009_08.png
+第漆話=Episode 7
+dai. nana. wa.
+つきひエクストラ=Tsukihi Extra#(or bonus)
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00013_01.png
+クワエテイタ=In addition#qc matches first part of the subs
+
+ID00013_02.png
+煙草ヲ=a cigarette
+
+ID00013_03.png
+第捌話=Episode 8
+dai. hachi. wa.
+メメエクストラ=Meme Extra#(or bonus)
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00015_01.png
+體育=Sitting on the floor
+坐リ=hugging your knees#qc matches subs
+
+ID00015_02.png
+ゴーグルノツイタ=To surprise her
+ヘルメツトヲ=I grabbed her helmet
+上カラ=with goggles attached
+驚ヅカミニシテ、=from above
+#qc matches first line of subs
+
+ID00015_03.png
+亂暴ニ、僕ノ手ヲ振リ拂ツタ=violently shook of my hand
+#qc matches second line of subs
+
+ID00015_04.png
+Donut.
+
+ID00017_01.png
+忍野 忍=Shinobu Oshino
+
+ID00017_02.png
+外見=Outwardly
+年齢=her age
+捌歳＝appears to be
+クライノ、=about 8
+#qc matches the first part of the subs
+
+ID00017_03.png
+透キ通ルヤウニ=Porcelain
+肌ノ白イ、=white skin
+#qc matches the second part of the subs
+
+ID00017_05.png
+第玖話=Episode 9
+dai. kyu. wa.
+しんぶエクストラ=Shinobu Extra#(or bonus)
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00019_01.png
+忍野サンヲ=Keeping Oshino
+待タセテモ=waiting is a
+ネシイ惡=necessary evil#qc
+
+理メ合ハセヲスルト約束デキ=If you can promise me you had
+ルナラ今日ハイイワ。大シタ=a good reason, then I’ll let you off.
+仕事モ殘ツテナイシ、今日ハ=I don’t have any important work left
+勘辨シテアゲル。=to do today, so I’ll show you some mercy.#qc
+#(勘辨=勘弁)
+
+ID00019_02.png
+忍野 メメ=Meme Oshino
+恩人=benefactor#qc
+
+ID00021_01.png
+委員長
+ノ中ノ
+委員長
+https://discord.com/channels/619077431013277697/908624370220556288/909062473267699772
+
+ID00021_02.png
+六月半バニ
+行ワレル予定ノ
+計画
+文化祭ノ
+https://discord.com/channels/619077431013277697/908624370220556288/909081809650864149
+
+ID00021_03.png
+第零話=Episode 0
+dai. rei. wa.
+つばさチュートリアル=Tsubasa Tutorial
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00023_01.png
+馬鹿ニタヤウニ、=Making fun of me
+彼女ハ、=she
+セセラ笑ツタ=laughed mockingly.#qc matches subs
+
+ID00023_02.png
+否=refuse; deny#qc
+
+ID00023_03.png
+暦=Koyomi
+頬ヲ引ツ張ル=pulled my cheeks#qc
+
+ID00023_04.png
+囘想=reminiscence
+
+ID00023_05.png
+囘想 終=reminiscence over
+
+ID00025_01.png
+動カナイデ=Don't move.#matches subs
+
+ID00025_02.png
+其ノ瞬間、=At that moment,
+狙ヒ澄マシタ=as if it had been
+ヤウニ=a clear shot#qc matches subs
+
+ID00025_03.png
+マルデ=As if it had been
+隙間ヲ=directed through
+通スヤウニ=a gap#qc matches subs
+
+ID00025_04.png
+僕ノ=into my
+口腔内=mouth
+ニ=it#qc matches subs
+
+ID00025_05.png
+怖い=fear#qc matches subs
+
+ID00025_06.png
+ト、思ツタ=Or so I thought#qc matches subs
+
+ID00025_07.png
+戰 sen.
+場 jou.
+ヶ ga.
+原 hara.
+ヒタギ=Hitagi Senjougahara#qc can’t read the numbers
+
+ID00025_08.png
+奴ダッタノカ=#qc matches second half of subs
+
+ID00025_09.png
+第壹話=Episode 1
+dai. ichi. wa.
+ひたぎクラブA=Hitagi Crab A
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00027_01.png
+忍野 メメ=Meme Oshino
+
+ID00027_02.png
+僕ガ=That I
+來ルコトナド=was coming#qc matches first half of subs
+
+ID00027_03.png
+分カリキツテイタト=As if they already
+イフ風ニ=knew#qc matches second half of subs
+
+ID00029_01.png
+學習塾=Cram School (学習塾)
+私立直江津高校カラ自轉車デ=About 20 minutes by bike
+二十分クライ行ツタ先ニ、=from Naoetsu Private High School
+其ノ學習塾ハ建ツテイル=lies the cram school.#qc matches subs
+
+ID00029_02.png
+危険=dangerous#qc matches subs
+
+ID00029_03.png
+私有地=Private Property#qc matches subs
+
+ID00029_04.png
+立チ入リ禁止=No Entry#qc matches subs
+
+ID00029_05.png
+第壹話=Episode 1
+dai. ichi. wa.
+ひたぎクラブB=Hitagi Crab B
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00031_01.png
+戦場ヶ原ハ、=Senjougahara was wearing
+白イタンクトツプニ=a white tank top,
+白イジヤケツト、=a white jacket
+ソシテ、白イフレアノ=and a white, flared
+スカートヲ穿キ、=skirt.#qc matches subs
+
+ID00031_02.png
+微笑シタ=smiled#qc matches second half of subs
+
+ID00033_01.png
+戦場ヶ原ノ家。=Senjougahara’s home.#qc matches subs
+
+ID00033_02.png
+木造アパート二階建デ、築三十年=A 30 year old two-storey wooden apartment building
+トタンの集合郵便受ケ=with a collective mailbox made of metal.
+
+ID00033_03.png
+カラウジテ、シャワート、水洗トイレハ備ヘ附ケ=Barely furnished, with a shower, flush toilet, and a small sink…
+イワウル1Ｋ、六畳一間、小サナシンク=A so-called 1K, 6-tatami mat-sized room.
+#qc 1K= one room apartment with kitchen, tatami mats are a standard measure of room size in Japan, 6 jo= 99 ft
+
+ID00033_04.png
+最寄ノバス停マデ、徒歩二十分=The nearest bus stop is a 20-minute walk away.
+家賃ハ概算、三萬圓カラ四萬圓=Estimated rent costs 30,000 yen - 40,000 yen.
+#qc ~260-350$
+
+ID00033_05.png
+トモカク、僕ハ=Anyway, I#qc matches second half of the subs
+
+ID00033_06.png
+第壹話=Episode 1
+dai. ichi. wa.
+ひたぎクラブC=Hitagi Crab C
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00035_01.png
+不覺ニモ=Unconsciously#qc matches first half of the subs (不覚にも)
+
+ID00035_02.png
+戦場ヶ原カラノソノ不意打チハ、=That surprise attack from Senjougahara
+僕ノ胸ニ、深ク深ク、染ミ入ツタノダツタ=had penetrated deep into my heart#qc matches second half of the subs
+
+ID00035_03.png
+蟹 【crab.】
+
+ID00037_01.png
+少シ過ギタトコロデ=A little past…#qc matches second half of the subs
+零時=Midnight
+壹=1
+貳=2
+參=3
+肆=4
+伍=5
+陸=6
+漆=7
+捌=8
+玖=9
+拾=10
+拾壹=11
+拾貳=12
+
+ID00037_02.png
+ズツトソコニ=#qc subs
+イタトイウ風ニ=
+草草草草草草草=hehehehe
+
+ID00037_03.png
+淨衣ニ身ヲ包ンデイタ=Wearing a
+白ズクメノ装束―=pure white dress#qc subs
+
+ID00037_04.png
+第壹話=Episode 1
+dai. ichi. wa.
+ひたぎクラブD=Hitagi Crab D
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00039_01.png
+「彼女ガ欲シイトカ」=“She wants it”#qc
+
+ID00039_02.png
+本当ニ器ガ大キライワ。#qc context
+
+
+ID00039_03.png
+意図的ニ、=Deliberate
+
+ID00039_04.png
+アルイハ、=or
+
+ID00039_05.png
+氣マズサニ=Feeling it was awkward,
+眼ヲ逸ラスヤウニ=she looked away#qc matches first half of the subs
+
+
+ID00039_06.png
+大キナリユツクサツクヲ背負ツタ=Carrying a large rucksack#qc matches subs
+女ノ子ガ=the girl
+
+ID00041_01.png
+人類史上=Probably
+恐ラクハ=attempted
+初メテノ試ミニ=for the first time
+ナルデアラウ=in human history#qc matches subs
+
+ID00041_02.png
+人類史上=Probably
+恐ラクハ=attempted
+初メテノ試ミニ=for the first time
+ナルデアラウ=in human history#qc matches subs
+
+奇拔=the eccentric
+ナ
+挨拶=greeting
+ガ
+聞コエタ氣カガシテ、＝that I thought I heard#qc matches subs
+
+
+ID00041_03.png
+戦場ヶ原ヒタギ=Hitagi Senjougahara
+地面カラ顔ヲアゲルト、=When I looked up from the ground
+ソコノイタノハクラスメイトノ=I saw my classmate
+ダッタ=stood there#qc matches subs
+
+ID00041_04.png
+shi. fuka.? (should be read ‘fuku’, but looks like an a)
+私　　服=plain clothed
+01-----01
+至　　福=bliss
+shi. fuka. (as above)
+
+ID00041_05.png
+喉元マデデカカツテタ言葉ヲ、=The words in the back of my throat
+僕ハ、=I
+思ハズ、=unconsciously#qc matches subs
+
+飲ミ込ンデ=swallowed
+シマツタ=them
+
+ID00041_06.png
+第貳話=Episode 2
+dai. ni. wa.
+まよいマイマイA=Mayoi Snail A
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00043_01.png
+八九寺は、驚クホド=To my surprise, Hachikuji
+冷静ナ口調デ--サナガラ、=in a calm tone of voice
+ワカリキツタ數式ノ=as if she was answering a simple maths question
+答ヲ無感情二述ベルヤウナ、=in a matter-of-fact way
+
+非常ニ機械的ナ口調デ、言ツタ=said, in a mechanical tone#qc matches previous subs
+
+ID00043_02.png
+真宵臺詞*=Mayoi’s words
+
+ID00045_01.png
+ツマリ、=In other words
+
+ID00045_02.png
+ツマリ、=In other words
+迷子=a lost child
+ツテ奴ナノダロウ=right?#qc matches subs
+
+ID00045_03.png
+ヒタギ=Hitagi
+暦=Koyomi
+真宵=Mayoi
+
+ID00045_04.png
+第貳話=Episode 2
+dai. ni. wa.
+まよいマイマイB=Mayoi Snail B
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00047_01.png
+浪白公園=Namishiro Park
+
+ID00049_01.png
+羽川 翼=Tsubasa Hanekawa
+ダツタ=it was#qc matches subs
+
+ID00049_02.png
+第貳話=Episode 2
+dai. ni. wa.
+まよいマイマイC=Mayoi Snail C
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00053_01.png
+怪異トハ=Aberration’s are
+
+ID00053_02.png
+世界ナソノモノノナンダカラ=caused by the world itself.#qc matches subs
+
+ID00053_03.png
+吸血鬼=vampire
+
+ID00053_04.png
+蝸牛ノ迷子デス=The lost child of a snail.
+katatsumuri. mai. go.
+(can’t the read numbers)
+
+ID00053_05.png
+第貳話=Episode 2
+dai. ni. wa.
+まよいマイマイD=Mayoi Snail D
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00055_01.png
+音=sound
+03
+
+ID00055_02.png
+音=sound
+02
+
+ID00055_03.png
+足音=footsteps
+01
+
+ID00055_04.png
+僕ガ嫌々ノ澁々、=As I reluctantly, involuntarily,
+ユツクリト身體ヲ=slowly twisted
+捻ツタトキニ=my body#qc matches first half of the subs
+嫌々=reluctantly
+ノ
+澁々=involuntarily
+
+ID00055_05.png
+神原駿河はハ、=Suruga Kanbaru had
+
+ID00057_01.png
+リュツクサツクヲ=Carrying a rucksack
+背負=back
+タツ=on her
+
+ID00057_02.png
+ツインテイル=pigtail
+小サナ=small
+女ノ子=girl
+
+ID00057_03.png
+即チ＊=That is to say
+
+ID00057_04.png
+八九寺真宵=Mayoi Hachikuji
+
+ID00057_05.png
+第參話=Episode 3
+dai. san. wa.
+するがモンキーA=Suruga Monkey A
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00059_01.png
+戦場ヶ原ヒタギ=Hitagi Senjougahara
+
+ID00059_02.png
+暴言ト甘言=Abuse and flattery#qc matches subs
+
+ID00059_03.png
+毒舌ト褒舌=criticism and praise#qc matches subs
+
+ID00059_04.png
+正反対=exact opposites#qc matches subs
+
+ID00059_05.png
+裏返し=reversal#qc matches subs
+
+ID00061_01.png
+第參話=Episode 3
+dai. san. wa.
+するがモンキーB=Suruga Monkey B
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00063_01.png
+ドウヤラ、コレハ単純ニ=It seems it’s simply
+照レテイルラシイー=embarrassing#qc matches subs
+
+ID00065_01.png
+ソシテソレハ、=And that was
+驅ケ足デモ、=even when running
+三十分=30 minutes
+ホドノ距離=distance
+ダッタ=away#qc matches subs
+
+ID00065_02.png
+ナンダカ、=For some reason
+中ニ入ル事ヲ=I felt a bit hesitant
+踌躇シテシマウ、=about going inside.
+重厚ナ空氣ノアル=The house had
+屋敷デアル=an air of grace about it.#qc matches subs
+
+ID00065_03.png
+第參話=Episode 3
+dai. san. wa.
+するがモンキーC=Suruga Monkey C
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00069_01.png
+ソシテ=And#qc matches first half of the subs
+
+ID00069_02.png
+第參話=Episode 3
+dai. san. wa.
+するがモンキーD=Suruga Monkey D
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00071_01.png
+前ガ見エテイルノカ=I had no idea whether
+イナイノカ非常ニ=she could actually see what was
+不慥カデ、=ahead of her, or not#qc matches first half of the subs
+
+ID00071_02.png
+足元ダケヲ見テ=It seemed she was
+驅ケ下リテキ=running down
+テイル感じ=following only
+ダツタ。=her feet.#qc matches second half of the subs
+
+ID00071_03.png
+？？？？
+
+ID00073_01.png
+陸月拾壹日=June 11th
+日曜日=Sunday.(already translated)
+
+ID00073_02.png
+午前拾時伍拾伍分=10:55 a.m.
+
+ID00073_03.png
+囘想 終ハリ=reminiscence over
+
+ID00073_04.png
+第肆話=Episode 4
+dai. yon. wa.
+なでこスネイクA=Nadeko Snake A
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00075_01.png
+＊祕密ノ所持品＊=A secret possession
+
+ID00075_02.png
+ソレニ=Plus#qc matches first half of the subs
+
+ID00075_03.png
+無口デ=Quietly#qc matches first half of the subs
+
+ID00075_04.png
+恥ズカシソウニ=looking embarrassed#qc matches middle of the subs
+
+ID00077_01.png
+自轉車ノ後部坐席二、=On the back seat of the bike
+千石=Sengoku
+ヲ乗セテ=sat#(was made allowed/to sit, but this probably works better image wise)
+
+シャ=*whrr*
+車輪=wheel#duplicated
+
+ID00077_02.png
+神原ハ、=Kanbaru was
+マルデ平然ト、=keeping speed with us
+伴走ダッタ=unfazed#qc matches subs
+
+ID00077_03.png
+戦場ヶ原ヒタギ=Hitagi Senjougahara
+
+ID00077_04.png
+神原 駿河=Suruga Kanbaru
+
+ID00077_05.png
+第肆話=Episode 4
+dai. yon. wa.
+なでこスネイクB=Nadeko Snake B
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00079_01.png
+撫子=Nadeko
+ブルマ=bloomers
+Bed.
+
+ID00079_02.png#replace?
+撫子=Nadeko
+暦=Koyomi
+駿河=Suruga
+
+ID00081_01.png
+ナデコチヤン=Nadeko
+
+ID00081_02.png
+ナデコチヤン=Nadeko
+
+ID00081_03.png
+「暦オ兄チャン……=“Koyomi-onii-chan…
+オレニ、神原サン」=Me, by Kanbaru”
+
+ヤガテ、千石ハ言ツタ。=Eventually, Sengoku said.
+アクマデモ物静カニ。=Having been quiet until the end.
+
+「少シ……=“For a second…
+後ロヲ向イ=Would you mind
+イテモラエ=turning
+マスカ」=around?”
+
+ID00081_04.png
+第肆話=Episode 4
+dai. yon. wa.
+なでこスネイクC=Nadeko Snake C
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00083_01.png
+暦オ兄チャン。=Koyomi-onii-chan
+
+ID00083_02.png
+助ケテクレテ、=for helping me
+
+ID00083_03.png
+アリガタウ=Thank you
+
+ID00083_04.png
+色白ノ、=Pale,#qc matches first half of the subs
+
+ID00083_05.png
+キメ細カイ、=smooth,#qc matches middle of the subs
+
+ID00083_06.png
+奇麗ナ肌ダ=beautiful skin.
+
+ID00085_01.png
+（オ泊リ會ガアルトカ、ナイトカ、）=(Whether or not there would be a sleepover)
+
+ID00085_02.png
+第肆話=Episode 4
+dai. yon. wa.
+なでこスネイクD=Nadeko Snake D
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00087_01.png
+「シ、シシシシシ失禮シマスツ!」=“E-E-E-E-E-Excuse me!”
+
+ID00087_02.png
+千石 撫子=Nadeko Sengoku
+
+ID00089_01.png
+「ア……暦オ兄チャン。待ツタダヨ」=“Ah, Koyomi-onii-chan! I was waiting for you.”
+
+ID00089_02.png
+腰ヲベルトデ=Tightly fastened around her waist
+絞ツテイルー=was a belt.
+千石ハ、ソコニ重ネテ、=On the belt,
+ウエストポーチヲ=Sengoku had attached
+装着シテイタ。=a pouch.
+
+ID00089_03.png
+第伍話=Episode 5
+dai. go. wa.
+つばさキャットA=Tsubasa Cat A
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00093_01.png
+6月13日=13 June
+六月十三日=The 13th of June
+陸月拾参日=June 13th#all sat the same thing, June 13th, just written differently
+
+ID00093_02.png
+ブルマ=bloomers
+
+ID00093_03.png
+スクール水著=School swimsuit
+
+ID00093_04.png
+コンナ一言ダッタ=a single word she said.#qc matches second half of the subs
+
+ID00093_05.png
+卵焼キ=Tamagoyaki#Japanese omelette
+
+ID00093_06.png
+第伍話=Episode 5
+dai. go. wa.
+つばさキャットB=Tsubasa Cat B
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00095_01.png
+忍野 メメ=Meme Oshino
+
+ID00095_02.png
+忍野 忍=Shinobu Oshino
+
+ID00097_01.png
+囘想 終ハリ=reminiscence over
+
+ID00097_02.png
+第伍話=Episode 5
+dai. go. wa.
+つばさキャットC=Tsubasa Cat C
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
+
+ID00099_01.png
+コンナニモ、=Since even this
+奇麗ナノダカラ、=is beautiful#qc matches subs
+
+ID00101_01.png
+全ク、薄イ=Completely pale#qc matches subs
+
+ID00101_02.png
+薄クテ、弱イ=Pale and weak#qc matches subs
+
+ID00101_03.png
+第伍話=Episode 5
+dai. go. wa.
+つばさキャットD=Tsubasa Cat D
+遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
+yuu. gi. shi. you. sho. tai.    min. chou.
