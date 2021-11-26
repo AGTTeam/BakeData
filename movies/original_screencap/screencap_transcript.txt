@@ -108,7 +108,7 @@ ID00017_03.png
 ID00017_05.png
 第玖話=Episode 9
 dai. kyu. wa.
-しんぶエクストラ=Shinobu Extra#(or bonus)
+しのぶエクストラ=Shinobu Extra#(or bonus)
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -202,7 +202,7 @@ ID00025_08.png
 ID00025_09.png
 第壹話=Episode 1
 dai. ichi. wa.
-ひたぎクラブA=Hitagi Crab A
+ひたぎクラブＡ=Hitagi Crab A
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -235,7 +235,7 @@ ID00029_04.png
 ID00029_05.png
 第壹話=Episode 1
 dai. ichi. wa.
-ひたぎクラブB=Hitagi Crab B
+ひたぎクラブＢ=Hitagi Crab B
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -272,7 +272,7 @@ ID00033_05.png
 ID00033_06.png
 第壹話=Episode 1
 dai. ichi. wa.
-ひたぎクラブC=Hitagi Crab C
+ひたぎクラブＣ=Hitagi Crab C
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -314,7 +314,7 @@ ID00037_03.png
 ID00037_04.png
 第壹話=Episode 1
 dai. ichi. wa.
-ひたぎクラブD=Hitagi Crab D
+ひたぎクラブＤ=Hitagi Crab D
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -383,7 +383,7 @@ ID00041_05.png
 ID00041_06.png
 第貳話=Episode 2
 dai. ni. wa.
-まよいマイマイA=Mayoi Snail A
+まよいマイマイＡ=Mayoi Snail A
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -414,7 +414,7 @@ ID00045_03.png
 ID00045_04.png
 第貳話=Episode 2
 dai. ni. wa.
-まよいマイマイB=Mayoi Snail B
+まよいマイマイＢ=Mayoi Snail B
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -428,7 +428,7 @@ ID00049_01.png
 ID00049_02.png
 第貳話=Episode 2
 dai. ni. wa.
-まよいマイマイC=Mayoi Snail C
+まよいマイマイＣ=Mayoi Snail C
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -449,7 +449,7 @@ katatsumuri. mai. go.
 ID00053_05.png
 第貳話=Episode 2
 dai. ni. wa.
-まよいマイマイD=Mayoi Snail D
+まよいマイマイＤ=Mayoi Snail D
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -495,7 +495,7 @@ ID00057_04.png
 ID00057_05.png
 第參話=Episode 3
 dai. san. wa.
-するがモンキーA=Suruga Monkey A
+するがモンキーＡ=Suruga Monkey A
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -517,7 +517,7 @@ ID00059_05.png
 ID00061_01.png
 第參話=Episode 3
 dai. san. wa.
-するがモンキーB=Suruga Monkey B
+するがモンキーＢ=Suruga Monkey B
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -542,7 +542,7 @@ ID00065_02.png
 ID00065_03.png
 第參話=Episode 3
 dai. san. wa.
-するがモンキーC=Suruga Monkey C
+するがモンキーＣ=Suruga Monkey C
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -552,7 +552,7 @@ ID00069_01.png
 ID00069_02.png
 第參話=Episode 3
 dai. san. wa.
-するがモンキーD=Suruga Monkey D
+するがモンキーＤ=Suruga Monkey D
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -583,7 +583,7 @@ ID00073_03.png
 ID00073_04.png
 第肆話=Episode 4
 dai. yon. wa.
-なでこスネイクA=Nadeko Snake A
+なでこスネイクＡ=Nadeko Snake A
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -621,7 +621,7 @@ ID00077_04.png
 ID00077_05.png
 第肆話=Episode 4
 dai. yon. wa.
-なでこスネイクB=Nadeko Snake B
+なでこスネイクＢ=Nadeko Snake B
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -656,7 +656,7 @@ ID00081_03.png
 ID00081_04.png
 第肆話=Episode 4
 dai. yon. wa.
-なでこスネイクC=Nadeko Snake C
+なでこスネイクＣ=Nadeko Snake C
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -684,7 +684,7 @@ ID00085_01.png
 ID00085_02.png
 第肆話=Episode 4
 dai. yon. wa.
-なでこスネイクD=Nadeko Snake D
+なでこスネイクＤ=Nadeko Snake D
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -707,7 +707,7 @@ ID00089_02.png
 ID00089_03.png
 第伍話=Episode 5
 dai. go. wa.
-つばさキャットA=Tsubasa Cat A
+つばさキャットＡ=Tsubasa Cat A
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -731,7 +731,7 @@ ID00093_05.png
 ID00093_06.png
 第伍話=Episode 5
 dai. go. wa.
-つばさキャットB=Tsubasa Cat B
+つばさキャットＢ=Tsubasa Cat B
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -747,7 +747,7 @@ ID00097_01.png
 ID00097_02.png
 第伍話=Episode 5
 dai. go. wa.
-つばさキャットC=Tsubasa Cat C
+つばさキャットＣ=Tsubasa Cat C
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
 
@@ -764,6 +764,6 @@ ID00101_02.png
 ID00101_03.png
 第伍話=Episode 5
 dai. go. wa.
-つばさキャットD=Tsubasa Cat D
+つばさキャットＤ=Tsubasa Cat D
 遊戯使用書體　HGP明朝B=Used typeface for game: HGP Mincho B
 yuu. gi. shi. you. sho. tai.    min. chou.
