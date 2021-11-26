@@ -184,17 +184,17 @@ ID00025_04.png
 ニ=it#qc matches subs
 
 ID00025_05.png
-怖い=fear#qc matches subs
+怖イ=fear#qc matches subs
 
 ID00025_06.png
 ト、思ツタ=Or so I thought#qc matches subs
 
 ID00025_07.png
-戰 sen.
-場 jou.
-ヶ ga.
-原 hara.
-ヒタギ=Hitagi Senjougahara#qc can’t read the numbers
+戰 sen. (190)
+場 jou. (211)
+ヶ ga. (355)
+原 hara. (1536)
+ヒタギ=Hitagi Senjougahara#qc
 
 ID00025_08.png
 奴ダッタノカ=#qc matches second half of subs

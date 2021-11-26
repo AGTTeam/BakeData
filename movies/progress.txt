@@ -9,8 +9,8 @@ Done   - final
 Episode 1
 ID00021: Sign
 ID00019: Sign
-ID00025: Cut
-ID00023: Cut
+ID00025: Sign
+ID00023: Sign
 ID08408: Check
 ID00029: Cut
 ID00027: Cut
