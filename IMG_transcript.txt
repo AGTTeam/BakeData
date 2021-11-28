@@ -1,0 +1,860 @@
+﻿ID13660.png
+打=Hit
+連打=Press Press
+割込=Interrupt
+成功=Success
+sei. kou.
+失敗=Failed
+shitsu. pai.
+割込=Interrupt
+wari. komi.
+成功=Success
+失敗=Failed
+済=🗸
+壊=✗
+残=Left
+勝=Win
+負=Lose
+開始=Start
+釦ヲ押シテ=Push the buttons
+一周セヲ=Complete the circle
+超必殺技返し=Skill Reverse
+
+ID13662.png
+ブラック羽川=Black Hanekawa
+
+ID13664.png
+戦場ヶ原 ひたぎ=Hitagi Senjougahara
+
+ID13666.png
+神原 駿河=Suruga Kanbaru
+
+ID13668.png
+阿良々木 火憐=Karen Araragi
+
+ID13670.png
+阿良々木 暦=Koyomi Araragi
+
+ID13672.png
+忍野 メメ=Meme Oshino
+
+ID13674.png
+八九寺 真宵=Mayoi Hachikuji
+
+ID13676.png
+千石 撫子=Nadeko Sengoku
+
+ID13678.png
+忍野 忍=Shinobu Oshino
+
+ID13680.png
+羽川 翼=Tsubasa Hanekawa
+
+ID13682.png
+阿良々木 月火=Tsukihi Araragi
+
+ID13706.png
+不戰勝=Shady Win#qc
+再勝=Another Win#qc
+壹 01=(number 1)
+貳 02=(number 2)
+先攻=Turn 1#qc
+拳遊ビ=Rock Paper Scissors
+強制終了=Forced Quit#qc
+イイ加減ニシナサイ=That’s enough already!#qc
+敵 com=(enemy)
+
+ID13708.png
+壹=1
+貳=2
+參=3
+肆=4
+伍=5
+陸=6
+漆=7
+捌=8
+玖=9
+拾=10
+連=Combo
+ren
+
+ID13710.png
+開始=start
+kaishi.
+壹試合目 (01)=1st Match
+貳試合目 (02)=2nd Match
+參試合目 (03)=3rd Match
+
+ID13712.png
+割り込み=Interrupt
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+連撃中=Mid-Attack
+割り込み/連撃=Interrupt/Combo
+属性=ATRIB (Attribute)#rock paper or scissors
+相性=AFFIN (Affinity)#effectivness against said character
+決=Set
+
+ID13714.png
+壹 01=(number 1)
+貳 02=(number 2)
+敵 com=(enemy)
+
+ID13716.png
+掌=Palm#qc
+開始=start
+kai. shi.
+吸引=#qc
+
+ID13718.png
+開始=start
+kai. shi.
+吸引=#qc
+
+ID13720.png
+人間ニヤンカト和氣藹々トスルホド、俺ハ落チブレチャイニャインダヨ=I'm not pathetic enough yet to want to be friendly with a human.
+
+ID13724.png
+障り猫=meddlesome cat
+
+ID13726.png
+斜メ漆拾漆度ノ並ビデ=Can mew imyagine an 
+泣ク泣クイナ々ク=imyaginyary mewnyagerie mewnyager 
+ナナハン 漆臺難ナク=imyagining mewnyaging 
+並ベテ長逃メ=an imyaginyary mewnyagerie?
+
+ID13730.png
+失敗=Failed
+
+ID13732.png
+超必殺技=Special Move
+発動=Activated
+壹 01=(number 1)
+貳 02=(number 2)
+敵 com=(enemy)
+
+ID13734.png
+勝利者=Winner
+壹試合目 (01)=1st Match
+貳試合目 (02)=2nd Match
+參試合目 (03)=3rd Match
+操者番號=Operator
+壹 01=(number 1)
+貳 02=(number 2)
+敵 com=(enemy)
+
+ID13736.png
+毆！=#qc
+
+ID13738.png
+猫
+tsubasa cat.
+
+ID13740.png
+蟹
+hitagi crab.
+
+ID13742.png
+猿
+suruga monkey.
+
+ID13744.png
+蜂
+karen bee.
+
+ID13746.png
+吸血鬼
+koyomi vamp.
+
+ID13748.png
+アロハ服=Hawaiian shirt
+
+ID13750.png
+蝸牛
+mayoi maimai.
+
+ID13752.png
+蛇
+nadeko snake.
+
+ID13754.png
+操者番號=Operator
+壹 01=(number 1)
+貳 02=(number 2)
+敵 com=(enemy)
+
+ID13756.png
+吸血鬼
+koyomi vamp.
+
+元吸血鬼=Former vampire
+
+ID13758.png
+猫
+tsubasa cat.
+
+ID13760.png
+鳥
+tsukihi phoenix.
+
+ID13762.png
+赤 aka.=red
+黒 kuro.=black
+黄 ki.=yellow
+白 shiro.=white
+青 ao.=blue
+紫 murasaki.=purple
+齣=scene
+
+ID13764.png
+阻止=Block
+成功=Successful
+失敗=Failed
+超必殺技返シ=Skill reverse
+
+ID13770.png
+文=School#replace with children crossing sign?
+
+ID13774.png
+駐車=Parking
+
+ID13782
+板内案宅住近街園公白浪=Namishiro Park Neighborhood Map
+Namishiro Park Management
+
+ID13800.png
+莫迦=Stupid
+
+ID13802.png#for some reason, the text is flipped although the kanji is the correct way round
+園公白浪=Namishiro Park
+意注ノ上用利=Usage Guide
+There are no trash bins. Take your trash home with you. No dogs allowed in the park. The use of cigarettes and fire is prohibited. Let's take good care of the trees, flowers, and playground equipment. 
+
+童貞がうつる=Virginity is infectious
+
+ID13808.png
+綴=bind#qc
+hotchkiss.#?
+
+ID13810.png
+今囘勘辨シテアゲル=I'll let you off just this once.
+kon. kai.    kan. ben.
+-戦場ヶ原 ヒタギ-=Hitagi Senjougahara
+
+ID13812.png
+kinshi.=forbidden#qc
+
+ID13818.png
+ツンデレ=tsundere
+
+ID13820.png
+ツンデレ=tsundere
+-戦場ヶ原 ヒタギ-=Hitagi Senjougahara
+sen. jou. ga. hara. hi. ta. gi.
+
+ID13822.png
+チガイカン=misunderstanding
+
+ID13826.png
+kinshi.=forbidden#qc
+
+ID13828.png
+本気=serious#qc
+
+ID13830.png
+ヒトリ殘ラズ=Everyone should
+死=die
+
+ID13832.png
+莫迦=Stupid
+
+ID13836.png
+近=close#qc
+
+ID13878.png
+ドウシテ誰モワカツテ呉レナインダラウ…=Why doesn’t anyone understand?
+dare. ka.
+-神原 駿河-=Suruga Kanbaru
+
+ID13882.png
+甘くて切ナイ恋にハマリマズ=You’ll be addicted to the sweet but sad romances!
+
+ID13888.png
+マニアック=Maniac
+
+ID13894.png
+反省ノ色ガ無イ=I won’t apologise.#qc no sign of remorse
+-阿良々木 月火-=Tsukihi Araragi
+
+ID13902.png
+karen.
+
+ID13914.png
+ハーツハハハハハハ！=Mwahaahahaha!
+-阿良々木 暦-=Koyomi Araragi
+
+ID13916.png
+触=Touch
+
+ID13920.png
+ツンドラ=tundra
+
+ID13922.png
+ツンドラ=tundra
+
+ID13924.png
+童 doutei.=virgin
+
+ID13926.png
+言葉=verbal
+暴力=abuse
+ノ
+
+ID13928.png
+目 me=eye
+変變 hen. tai=pervert
+
+ID13932.png
+暦-=Koyomi#replace with an icon?
+
+ID13934.png
+バカ BAKA=Stupid
+
+ID13936.png
+忍野 メメ=Meme Oshino
+oshi. no. me. me.
+
+ID13938.png
+結局=In the end#qc
+
+ID13940.png
+ソレヲヨク、ワカツテオイテクレ=You should remember that.#qc
+-忍野 メメ-=Meme Oshino
+
+ID13942.png
+オーソリティ=authority
+
+ID13944.png
+青春=Youth
+
+ID13952.png
+失禮、噛ミマシタ=I’m sorry for biting you.
+-八九寺 真宵-=Mayoi Hachikuji
+
+ID13954.png
+汗=sweat#replace with icon?
+
+ID13960.png
+選別 sen. betsu.=everyone has 
+差別 sa. betsu.=a type
+
+ID13962.png
+壹=1
+悩殺ボオズノ撫子=Femme Fatale Nadeko
+
+ID13964.png
+悩殺ボオズノ撫子=Femme Fatale Nadeko
+貳=2
+
+ID13966.png
+悩殺ボオズノ撫子=Femme Fatale Nadeko
+參=3 
+
+ID13968.png
+シ、シシシシシ失禮シマスツ!=E-E-E-E-E-Excuse me!
+-千石 撫子-=Nadeko Sengoku
+
+ID13970.png
+ソノ……、=That’s…
+
+ID13972.png
+通=#qc
+
+ID13976.png
+面白イ話？=An interesting story?#qc just interesting?
+
+ID13978.png
+お兄ちゃん=onii-chan
+
+ID13982.png
+忍野 忍=Shinobu Oshino
+動畫番號 參伍貳拾=Animation Number 352?
+
+ID13984.png
+歯形=Bite mark#qctooth shape
+
+ID13986.png
+-忍野 忍-=Shinobu Oshino
+
+ID13988.png
+喰=eat
+
+ID13990.png
+嫌ハレルヨウナコトシチャツタカナ？=It seems that I'm hated.
+羽川 翼=Tsubasa Hanekawa
+
+ID13992.png
+翼 臺詞=Tsubasa’s line
+汚ラワシ=Disgusting
+省略=Omitted#qc
+言ヒ譯ニナルト思フ？=You think that's an acceptable excuse?
+
+ID13994.png
+翼 臺詞=Tsubasa’s line
+汚ラワシ=Disgusting
+省略=Omitted#qc
+弱クテ薄イノヨネ=You're weak and pale.
+
+ID13996.png
+何デモハ知ラナイワヨ。知ツテルコトダケ=I don't know everything. I just know what I know.
+nan. ni.
+-羽川 翼-=Tsubasa Hanekawa
+
+ID13998.png
+嫌ナ言ヒ方=Harsh tone
+
+ID14000.png
+汗=sweat#replace with icon?
+
+ID14002.png
+言ヒワケ=excuse#qc
+
+ID14004.png
+嘘ナンカ=I 
+ツイタコトガ=never
+ナイモノ=lie.
+
+ID14010.png
+痛=pain
+
+ID14012.png
+ウルサイナア！=Shut up!
+-阿良々木 月火-=Tsukihi Araragi
+怒 do.=anger
+
+ID14020.png
+西尾維新/講談社・アニプレックス・シャフト ©2012 NBGI=Nisio Isin/Kodansha・Aniplex・Shaft ©2012 NBGI
+
+ID14024.png
+囘想を見る=Replay Memories
+データ削除=Clear Data
+動画ファイル変換=Movie Creator
+新規妄想=New Delusions#qc
+編集=Edit Glossary
+視聴=Watch#qc
+
+ID14026.png
+妄想=Delusions
+囘想=Memories
+
+ID14030.png
+囘想を見る=Replay Memories
+データ削除=Clear Data
+動画ファイル変換=Movie Creator
+新規妄想=New Delusions#qc
+編集=Edit Glossary
+視聴=Watch#qc
+
+ID14032.png
+妄想=Delusions
+囘想=Memories
+
+ID14036.png
+シアター=Theater
+
+ID14060.png
+黒=Black
+化=Bake#qc
+
+ID14062.png
+人物選択=Character Select
+あなた=You#maybe P1?
+
+ID14066.png
+忍野 忍=Shinobu Oshino
+ブラック羽川=Black Hanekawa
+羽川 翼=Tsubasa Hanekawa
+千石 撫子=Nadeko Sengoku
+神原 駿河=Suruga Kanbaru
+八九寺 真宵=Mayoi Hachikuji
+戦場ヶ原 ひたぎ=Hitagi Senjougahara
+阿良々木 暦=Koyomi Araragi
+?
+阿良々木 月火=Tsukihi Araragi
+阿良々木 火憐=Karen Araragi
+忍野 メメ=Meme Oshino
+壹 01=(number 1)
+貳 02=(number 2)
+敵 com=(enemy)
+
+人物選択=Character Select
+あなた=You#maybe P1?
+
+ID14068.png
+衣装=Costume
+語録=Glossary
+場所選択=Stage Select
+この衣装の組み合わせでは使用できません=Can’t be used with this costume#qc
+
+ID14070.png
+口撃力=Speech Power
+テンション上昇量=Tension Boost
+不得意/得意=Weak/Strong
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14074.png
+口撃力=Speech Power
+テンション上昇量=Tension Boost
+不得意/得意=Weak/Strong
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14076.png
+語録編集=Edit Glossary
+台詞一覧=Dialogue list
+
+ID14078.png
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14080.png
+カスタソウンドトラック=Customize Soundtrack
+通常ＢＧＭ=Normal BGM
+背景ＢＧＭ=Gentle BGM
+超必殺技=Special BGM
+
+ID14082.png
+化物語 ポータブル=Bakemonogatari Portable
+「お前、僕をそんなレベルのマニアックな変態だと思ってたのか！？」＝“Do you really think that I'm at that level of maniac perversion?!”
+「戦争を、しましょう」=“Let's have a war.”
+「話しかけないでください、あなたのことが嫌いです」=“Please don't speak to me. I hate you.”
+「ん？ＢＬとはボーイズラブの略だぞ？」=“BL is short for boys' love, you know.”
+「撫子は……その、…ごめんなさい」=“I-I’m sorry...”
+「人付き合いが嫌いなのと、人間嫌いは、違うんだよ？」=“Hating socializing with people is different than hating people.”
+インストール中です。記録メディアを抜かないでください。=Installation in progress. Please do not remove the memory card.
+
+ID14084.png
+豫告=Preview
+
+ID14086.png
+良=C
+可=D
+秀=B
+優=A
+つばさチュートリアル=Tsubasa Tutorial
+ひたぎクラブ=Hitagi Crab
+まよいマイマイ=Mayoi Snail
+するがモンキー=Suruga Monkey
+なでこスネイク=Nadeko Snake
+つばさキャット=Tsubasa Cat
+かれんエクストラ=Karen Extra
+つきひエクストラ=Tsukihi Extra
+メメエクストラ=Meme Extra
+しのぶエクストラ=Shinobu Extra
+???
+
+ID14090.png
+エクストラ=Extra
+
+ID14116.png
+人物相関図=Character Profiles
+人物紹介=Character Intros
+
+ID14124.png
+忍野 忍=Shinobu Oshino
+ＣＶ。坂本 真綾=VA. Maaya Sakamoto
+ブラック羽川=Black Hanekawa
+ＣＶ。堀江 由衣=VA. Yui Horie
+羽川 翼=Tsubasa Hanekawa
+ＣＶ。堀江 由衣=VA. Yui Horie
+千石 撫子=Nadeko Sengoku
+ＣＶ。花澤 香菜＝VA. Kana Hanazawa
+神原 駿河=Suruga Kanbaru
+ＣＶ。沢城 みゆき=VA. Miyuki Sawashiro
+八九寺 真宵=Mayoi Hachikuji
+ＣＶ。加藤 英美里=VA. Emiri Katou
+戦場ヶ原 ひたぎ=Hitagi Senjougahara
+ＣＶ。斎藤 千和=VA. Chiwa Saitou
+阿良々木 暦=Koyomi Araragi
+ＣＶ。神谷 浩史=VA. Hiroshi Kamiya
+?
+阿良々木 月火=Tsukihi Araragi
+ＣＶ。井口 裕香=Yuka Iguchi
+阿良々木 火憐=Karen Araragi
+ＣＶ。喜多村 英梨＝Eri Kitamura
+忍野 メメ=Meme Oshino
+ＣＶ。櫻井 孝宏=Takahiro Sakurai
+
+ID14126.png
+ご注意
+ゲームソフトを権利者の許諾なく、
+インターネットを通じて配信、配布する
+行為、また、違法なインターネット配信
+と知りながらダウンロードする行為は
+法律で固く禁じられております。
+みなさまのご理解とご協力を
+お願いいたします。
+=WARNING
+The act of distributing game software over the Internet
+without the permission of the game software's rightsowners,
+and act of knowingly downloading illegally distributed content
+through the Internet are strictly prohibited by law.
+Thank you for your understanding and cooperation.#standard warning
+
+ID14128.png
+通信対戦モード=Communication mode
+壹=1
+貳=2
+參=3
+肆=4
+伍=5
+あなたのニックネーム:=Your nickname:
+対戦者一覧=Player List
+
+ID14130.png
+通信対戦モード=Communication mode
+壹=1
+貳=2
+參=3
+肆=4
+伍=5
+あなたのニックネーム:=Your nickname:
+対戦者一覧=Player List
+
+ID14132.png
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14134.png
+黒=Black
+化=Bake#qc
+
+ID14136.png
+プレイレコード=Record
+
+ID14138.png
+總合結果發表=All records
+
+ID14142.png
+ひたぎクラブ=Hitagi Crab
+まよいマイマイ=Mayoi Snail
+するがモンキー=Suruga Monkey
+なでこスネイク=Nadeko Snake
+つばさキャット=Tsubasa Cat
+かれんエクストラ=Karen Extra
+つきひエクストラ=Tsukihi Extra
+メメエクストラ=Meme Extra
+しのぶエクストラ=Shinobu Extra
+つばさチュートリアル=Tsubasa Tutorial
+思考時閒=Thinking Time
+總合結果=All records
+
+通信対戦モード=Communication mode
+フリー対戦モード=Freeplay mode
+
+良=C
+可=D
+秀=B
+優=A
+不可=F
+
+ID14144.png
+呼=Call#qc
+
+ID14146.png
+つばさチュートリアル=Tsubasa Tutorial
+ひたぎクラブ=Hitagi Crab
+まよいマイマイ=Mayoi Snail
+するがモンキー=Suruga Monkey
+なでこスネイク=Nadeko Snake
+つばさキャット=Tsubasa Cat
+かれんエクストラ=Karen Extra
+つきひエクストラ=Tsukihi Extra
+メメエクストラ=Meme Extra
+しのぶエクストラ=Shinobu Extra
+???
+良=C
+可=D
+秀=B
+優=A
+
+ID14150.png
+ストーリー=Story
+
+ID14154.png
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14156.png
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14158.png
+化物語 ポータブル=Bakemonogatari Portable
+西尾維新/講談社・アニプレックス・シャフト ©2012 NBGI=Nisio Isin/Kodansha・Aniplex・Shaft ©2012 NBGI
+はじめから=New Game
+つづきから=Continue
+データインストール=Install Data#qc
+
+ID14160.png
+初めにー=Introduction
+会話劇とは？=What is a ‘Dialogue Drama’?
+台詞=Dialogue
+属性=Attributes
+テンションゲージ=Tension Gauge
+連撃=Combos
+割り込み=Interruptions
+超必殺技返し=Skill Reverse
+超必殺技=Special Move
+まとめ=To Sum
+最後にー=Closing
+
+ID14162>ID14180, ID14186>ID14190
+初めにー=Introduction
+会話劇とは？=What is a ‘Dialogue Drama’?
+台詞=Dialogue
+属性=Attributes
+テンションゲージ=Tension Gauge
+連撃=Combos
+割り込み=Interruptions
+超必殺技返し=Skill Reverse
+超必殺技=Special Moves
+まとめ=To Sum
+最後にー=Closing
+
+ID14172.png
+効果大！=Very Effective!
+
+ID14182.png
+台詞選択=Dialogue Select
+連撃=Combos
+超必殺技=Special Moves
+リプレイ保存=Saving Replays
+割り込み=Interruptions
+超必殺技返し=Skill Reverse
+アイテム入手=Obtaining Items
+語録作成=Glossary Creation
+台詞詳細=Dialogue Points#in detail
+並べ替え=Organization
+妄想作成=Making Delusions
+
+ID14192.png
+入れ替えたい台詞を選んで=Select the line you want to change
+弱い=Weak
+強い=Strong
+
+ID14194.png
+割り込みアイコン=Interrupt Icon
+連撃アイコン（開始）=Combo Icon (Start)
+連撃アイコン（継続）=Combo Icon (Continue)
+連撃=Combo
+選択台詞数：6=Chosen Lines: 6
+選択台詞数：3/6=Chosen Lines: 3/6
+
+ID14196.png
+石=Rock#replace with icons?
+鋏=Scissors
+紙=Paper
+
+ID14200.png
+シングルモード=Single Mode
+通信対戦モード=Communication mode
+カスタムイズ=Customize
+シアター=Theater
+ライブラリー=Library#Glossary?
+オプション=Options
+プレイレコード=Play Record
+
+ストーリーモードー=Story Mode
+フリー対戦モード=Freeplay Mode
+エクストラモード=Extras
+囘想=Memories
+妄想=Delusions
+しのビューアー=Shinobu Viewer
+人物相関図=Character Profile
+追想=Memories
+ソウンド=Sound
+画面表示=Display
+オートセーブ=Autosave
+データインストール=Install Data
+お楽しみ=Fun
+カスタソウンドトラック=Customize Soundtrack
+有効　無効=Enable Disable
+SE
+BGM
+VOICE
+字幕=Subtitles
+劇中表示=Gameplay Icons
+案内役=Hints
+壁紙=Wallpaper
+阿良々木 暦=Koyomi Araragi
+戦場ヶ原 ひたぎ=Hitagi Senjougahara
+八九寺 真宵=Mayoi Hachikuji
+神原 駿河=Suruga Kanbaru
+千石 撫子=Nadeko Sengoku
+羽川 翼=Tsubasa Hanekawa
+忍野 メメ=Meme Oshino
+忍野 忍=Shinobu Oshino
+ブラック羽川=Black Hanekawa
+阿良々木 月火=Tsukihi Araragi
+阿良々木 火憐=Karen Araragi
+戦績=Battle Record
+称号=Achievements#qc
+
+つばさチュートリアル=Tsubasa Tutorial
+ひたぎクラブ=Hitagi Crab
+まよいマイマイ=Mayoi Snail
+するがモンキー=Suruga Monkey
+なでこスネイク=Nadeko Snake
+つばさキャット=Tsubasa Cat
+かれんエクストラ=Karen Extra
+つきひエクストラ=Tsukihi Extra
+メメエクストラ=Meme Extra
+しのぶエクストラ=Shinobu Extra
+???
+オープニング=Opening
+スタッフロール=Credits
+
+ID14202.png
+マインメニュー=Main Menu
+シングルモード=Single Mode
+通信対戦モード=Communication mode
+カスタムイズ=Customize
+台詞選択=Dialogue Select
+シアター=Theater
+ライブラリー=Library#Glossary
+オプション=Options
+プレイレコード=Play Record
+
+ID14224.png
+学園祭の催し物=School Festival Attractions
+縁日=Fair
+クレープ屋=Crepe Cafe
+合唱=Choir
+お化け屋敷=Haunted House
+
+ID14232.png
+なまえ=Name
+5の3=5-3
+八九寺 真宵=Mayoi Hachikuji
+
+ID14246.png
+私立直江津高校=Naoetsu Private High School
+直江津高等學校前=Naoetsu High School - Front
+
+ID14248.png
+心洗=Refreshing#qc
+
+ID14252.png
+心洗=Refreshing#qc
+
+loading_icon.png
+現在読込中=Loading…
