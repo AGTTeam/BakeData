@@ -7,7 +7,7 @@ Check  - rendered, needs to be checked in-game
 Done   - final
 
 Episode 1
-ID00021: Sign
+ID00021: Sign/temp Check
 ID00019: Sign
 ID00025: Sign
 ID00023: Sign
@@ -16,7 +16,7 @@ ID00029: Sign
 ID00027: Sign
 
 Episode 2
-ID00033: WIP
+ID00033: Sign
 ID00031: WIP
 ID00037: WIP
 ID00035: WIP
@@ -106,7 +106,7 @@ Misc
 ID00109: WIP   - Original OP movie
 ID00001: WIP   - Original Staff credits
 ID00102: Check - ED1
-ID00104: WIP   - ED2 (not included as creditless in the BDs)
+ID00104: Check - ED2 (used video2x to upscale)
 ID00106: Check - ED3
 ID00005: Cut   - Karen Extra, added cuts from episode 5
 ID00009: Cut   - Tsukihi Extra, added cuts from episode 2
