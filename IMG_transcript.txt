@@ -544,8 +544,8 @@ ID14084.png
 ID14086.png
 良=C
 可=D
-秀=B
-優=A
+秀=A
+優=B
 つばさチュートリアル=Tsubasa Tutorial
 ひたぎクラブ=Hitagi Crab
 まよいマイマイ=Mayoi Snail
@@ -660,12 +660,12 @@ ID14142.png
 
 良=C
 可=D
-秀=B
-優=A
+秀=A
+優=B
 不可=F
 
 ID14144.png
-呼=Call#qc
+呼=Hey
 
 ID14146.png
 つばさチュートリアル=Tsubasa Tutorial
@@ -681,8 +681,8 @@ ID14146.png
 ???
 良=C
 可=D
-秀=B
-優=A
+秀=A
+優=B
 
 ID14150.png
 ストーリー=Story
@@ -769,7 +769,7 @@ ID14200.png
 通信対戦モード=Communication mode
 カスタムイズ=Customize
 シアター=Theater
-ライブラリー=Library#Glossary?
+ライブラリー=Library
 オプション=Options
 プレイレコード=Play Record
 
@@ -792,8 +792,8 @@ SE
 BGM
 VOICE
 字幕=Subtitles
-劇中表示=Gameplay Icons
-案内役=Hints
+劇中表示=Gauge Display
+案内役=Menu Voice
 壁紙=Wallpaper
 阿良々木 暦=Koyomi Araragi
 戦場ヶ原 ひたぎ=Hitagi Senjougahara
@@ -807,7 +807,7 @@ VOICE
 阿良々木 月火=Tsukihi Araragi
 阿良々木 火憐=Karen Araragi
 戦績=Battle Record
-称号=Achievements#qc
+称号=Achievements
 
 つばさチュートリアル=Tsubasa Tutorial
 ひたぎクラブ=Hitagi Crab
@@ -830,7 +830,7 @@ ID14202.png
 カスタムイズ=Customize
 台詞選択=Dialogue Select
 シアター=Theater
-ライブラリー=Library#Glossary
+ライブラリー=Library
 オプション=Options
 プレイレコード=Play Record
 
