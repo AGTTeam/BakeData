@@ -58,7 +58,7 @@ ID13706.png
 再勝=Another Win#qc
 壹 01=(number 1)
 貳 02=(number 2)
-先攻=Turn 1#qc
+先攻=1st
 拳遊ビ=Rock Paper Scissors
 強制終了=Forced Quit#qc
 イイ加減ニシナサイ=That’s enough already!#qc
@@ -525,7 +525,7 @@ ID14078.png
 ID14080.png
 カスタソウンドトラック=Customize Soundtrack
 通常ＢＧＭ=Normal BGM
-背景ＢＧＭ=Gentle BGM
+背景ＢＧＭ=Stage BGM
 超必殺技=Special BGM
 
 ID14082.png
@@ -780,7 +780,7 @@ ID14200.png
 妄想=Delusions
 しのビューアー=Shinobu Viewer
 人物相関図=Character Profile
-追想=Memories
+追想=Movies
 ソウンド=Sound
 画面表示=Display
 オートセーブ=Autosave
