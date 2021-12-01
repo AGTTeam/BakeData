@@ -438,11 +438,11 @@ ID14020.png
 
 ID14024.png
 囘想を見る=Replay Memories
-データ削除=Clear Data
-動画ファイル変換=Movie Creator
-新規妄想=New Delusions#qc
-編集=Edit Glossary
-視聴=Watch#qc
+データ削除=Delete Data
+動画ファイル変換=Movie Converter
+新規妄想=New Delusion
+編集=New Delusion
+視聴=Watch
 
 ID14026.png
 妄想=Delusions
@@ -542,10 +542,10 @@ ID14084.png
 豫告=Preview
 
 ID14086.png
-良=C
-可=D
-秀=A
-優=B
+良=B
+可=C
+秀=S
+優=A
 つばさチュートリアル=Tsubasa Tutorial
 ひたぎクラブ=Hitagi Crab
 まよいマイマイ=Mayoi Snail
@@ -658,10 +658,10 @@ ID14142.png
 通信対戦モード=Communication mode
 フリー対戦モード=Freeplay mode
 
-良=C
-可=D
-秀=A
-優=B
+良=B
+可=C
+秀=S
+優=A
 不可=F
 
 ID14144.png
@@ -679,10 +679,10 @@ ID14146.png
 メメエクストラ=Meme Extra
 しのぶエクストラ=Shinobu Extra
 ???
-良=C
-可=D
-秀=A
-優=B
+良=B
+可=C
+秀=S
+優=A
 
 ID14150.png
 ストーリー=Story
