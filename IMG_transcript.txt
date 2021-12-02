@@ -562,8 +562,8 @@ ID14090.png
 エクストラ=Extra
 
 ID14116.png
-人物相関図=Character Profiles
-人物紹介=Character Intros
+人物相関図=Character Map
+人物紹介=Character Profile
 
 ID14124.png
 忍野 忍=Shinobu Oshino
@@ -828,7 +828,7 @@ ID14202.png
 シングルモード=Single Mode
 通信対戦モード=Communication mode
 カスタムイズ=Customize
-台詞選択=Dialogue Select
+物語選択=Episode Select
 シアター=Theater
 ライブラリー=Library
 オプション=Options
