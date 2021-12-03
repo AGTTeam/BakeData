@@ -18,7 +18,7 @@ wari. komi.
 開始=Start
 釦ヲ押シテ=Push the buttons
 一周セヲ=Complete the circle
-超必殺技返し=Skill Reverse
+超必殺技返し=Show Stopper
 
 ID13662.png
 ブラック羽川=Black Hanekawa
@@ -81,9 +81,9 @@ ren
 ID13710.png
 開始=start
 kaishi.
-壹試合目 (01)=1st Match
-貳試合目 (02)=2nd Match
-參試合目 (03)=3rd Match
+壹試合目 (01)=Round 1
+貳試合目 (02)=Round 2
+參試合目 (03)=Round 3
 
 ID13712.png
 割り込み=Interrupt
@@ -128,7 +128,7 @@ ID13730.png
 失敗=Failed
 
 ID13732.png
-超必殺技=Special Move
+超必殺技=Show Move
 発動=Activated
 壹 01=(number 1)
 貳 02=(number 2)
@@ -136,16 +136,16 @@ ID13732.png
 
 ID13734.png
 勝利者=Winner
-壹試合目 (01)=1st Match
-貳試合目 (02)=2nd Match
-參試合目 (03)=3rd Match
+壹試合目 (01)=Round 1
+貳試合目 (02)=Round 2
+參試合目 (03)=Round 3
 操者番號=Operator
 壹 01=(number 1)
 貳 02=(number 2)
 敵 com=(enemy)
 
 ID13736.png
-毆！=#qc
+毆！=PUNCH!
 
 ID13738.png
 猫
@@ -291,7 +291,7 @@ ID13902.png
 karen.
 
 ID13914.png
-ハーツハハハハハハ！=Mwahaahahaha!
+ハーツハハハハハハ！=Hahaahahaha!
 -阿良々木 暦-=Koyomi Araragi
 
 ID13916.png
@@ -391,12 +391,12 @@ ID13988.png
 喰=eat
 
 ID13990.png
-嫌ハレルヨウナコトシチャツタカナ？=It seems that I'm hated.
+嫌ハレルヨウナコトシチャツタカナ？=Did I do something to make you not like me?
 羽川 翼=Tsubasa Hanekawa
 
 ID13992.png
 翼 臺詞=Tsubasa’s line
-汚ラワシ=Disgusting
+汚ラワシイ=Dirty
 省略=Omitted#qc
 言ヒ譯ニナルト思フ？=You think that's an acceptable excuse?
 
@@ -712,8 +712,8 @@ ID14160.png
 テンションゲージ=Tension Gauge
 連撃=Combos
 割り込み=Interruptions
-超必殺技返し=Skill Reverse
-超必殺技=Special Move
+超必殺技返し=Show Stoppers
+超必殺技=Show Move
 まとめ=To Sum
 最後にー=Closing
 
@@ -725,8 +725,8 @@ ID14162>ID14180, ID14186>ID14190
 テンションゲージ=Tension Gauge
 連撃=Combos
 割り込み=Interruptions
-超必殺技返し=Skill Reverse
-超必殺技=Special Moves
+超必殺技返し=Show Stoppers
+超必殺技=Show Moves
 まとめ=To Sum
 最後にー=Closing
 
@@ -736,10 +736,10 @@ ID14172.png
 ID14182.png
 台詞選択=Dialogue Select
 連撃=Combos
-超必殺技=Special Moves
+超必殺技=Show Moves
 リプレイ保存=Saving Replays
 割り込み=Interruptions
-超必殺技返し=Skill Reverse
+超必殺技返し=Show Stoppers
 アイテム入手=Obtaining Items
 語録作成=Glossary Creation
 台詞詳細=Dialogue Points#in detail
