@@ -92,7 +92,7 @@ ID13712.png
 紙=Paper
 連撃中=Mid-Attack
 割り込み/連撃=Interrupt/Combo
-属性=ATRIB (Attribute)#rock paper or scissors
+属性=TRAIT#rock paper or scissors
 相性=AFFIN (Affinity)#effectivness against said character
 決=Set
 
@@ -704,27 +704,14 @@ ID14158.png
 つづきから=Continue
 データインストール=Install Data#qc
 
-ID14160.png
+ID14160>ID14180, ID14186>ID14190
 初めにー=Introduction
-会話劇とは？=What is a ‘Dialogue Drama’?
-台詞=Dialogue
-属性=Attributes
+会話劇とは？=Dialogue Drama
+台詞=Lines
+属性=Traits
 テンションゲージ=Tension Gauge
 連撃=Combos
-割り込み=Interruptions
-超必殺技返し=Show Stoppers
-超必殺技=Show Move
-まとめ=To Sum
-最後にー=Closing
-
-ID14162>ID14180, ID14186>ID14190
-初めにー=Introduction
-会話劇とは？=What is a ‘Dialogue Drama’?
-台詞=Dialogue
-属性=Attributes
-テンションゲージ=Tension Gauge
-連撃=Combos
-割り込み=Interruptions
+割り込み=Interrupts
 超必殺技返し=Show Stoppers
 超必殺技=Show Moves
 まとめ=To Sum
