@@ -339,7 +339,7 @@ ID13944.png
 青春=Youth
 
 ID13952.png
-失禮、噛ミマシタ=I’m sorry for biting you.
+失禮、噛ミマシタ=Sorry, I stuttered.
 -八九寺 真宵-=Mayoi Hachikuji
 
 ID13954.png
