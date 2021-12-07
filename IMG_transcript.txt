@@ -326,10 +326,10 @@ ID13936.png
 oshi. no. me. me.
 
 ID13938.png
-結局=In the end#qc
+結局=In the end
 
 ID13940.png
-ソレヲヨク、ワカツテオイテクレ=You should remember that.#qc
+ソレヲヨク、ワカツテオイテクレ=You’d do well to remember that.
 -忍野 メメ-=Meme Oshino
 
 ID13942.png
