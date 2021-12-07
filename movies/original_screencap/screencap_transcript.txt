@@ -333,7 +333,7 @@ ID00039_04.png
 
 ID00039_05.png
 氣マズサニ=Feeling it was awkward,
-眼ヲ逸ラスヤウニ=she looked away#qc matches first half of the subs
+眼ヲ逸ラスヤウニ、=she looked away#qc matches first half of the subs
 
 
 ID00039_06.png
@@ -356,7 +356,7 @@ ID00041_02.png
 ナ
 挨拶=greeting
 ガ
-聞コエタ氣カガシテ、＝that I thought I heard#qc matches subs
+聞コエタ氣ガシテ、＝that I thought I heard#qc matches subs
 
 
 ID00041_03.png
