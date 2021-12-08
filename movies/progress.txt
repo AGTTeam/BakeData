@@ -22,8 +22,8 @@ ID00037: Sign
 ID00035: Sign
 
 Episode 3
-ID00041: WIP
-ID00039: WIP
+ID00041: Sign
+ID00039: Cut/Sign: missing one cut/dip to black
 ID00045: WIP
 ID08411: Check
 
