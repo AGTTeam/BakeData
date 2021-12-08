@@ -102,15 +102,15 @@ ID13714.png
 敵 com=(enemy)
 
 ID13716.png
-掌=Palm#qc
+掌=Palm
 開始=start
 kai. shi.
-吸引=#qc
+吸引=Energy Drain
 
 ID13718.png
 開始=start
 kai. shi.
-吸引=#qc
+吸引=Energy Drain
 
 ID13720.png
 人間ニヤンカト和氣藹々トスルホド、俺ハ落チブレチャイニャインダヨ=I'm not pathetic enough yet to want to be friendly with a human.
@@ -284,7 +284,7 @@ ID13888.png
 マニアック=Maniac
 
 ID13894.png
-反省ノ色ガ無イ=I won’t apologise.#qc no sign of remorse
+反省ノ色ガ無イ=Sorry not sorry!
 -阿良々木 月火-=Tsukihi Araragi
 
 ID13902.png
@@ -369,7 +369,7 @@ ID13970.png
 ソノ……、=That’s…
 
 ID13972.png
-通=#qc
+通=UNDERSTOOD#撫子も通じるとは思わなかった=I didn’t think you’d get it, either.
 
 ID13976.png
 面白イ話？=An interesting story?#qc just interesting?
