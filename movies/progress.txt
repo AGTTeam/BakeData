@@ -23,7 +23,7 @@ ID00035: Sign
 
 Episode 3
 ID00041: Sign
-ID00039: Cut/Sign: missing one cut/dip to black
+ID00039: Sign (using "wrong" doves flying away shot from ep1)
 ID00045: WIP
 ID08411: Check
 
