@@ -10,6 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: [Coalgirls]_Bakemonogatari_04_(1920x1080_Blu-ray_FLAC)_[CE81CD30].mkv
+Video File: [Coalgirls]_Bakemonogatari_04_(1920x1080_Blu-ray_FLAC)_[CE81CD30].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 1076
+Active Line: 1090
+Video Position: 13443
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1140,7 +1148,7 @@ Dialogue: 1,0:09:55.65,0:09:56.86,Century,,0,0,0,,{\blur0.25\an5\fs160\pos(967,5
 Dialogue: 1,0:09:55.65,0:09:56.86,Century,,0,0,0,,{\blur0.25\fsp10\1c&H355BFF&\pos(967,900)}Animation Number 221
 Dialogue: 1,0:10:00.57,0:10:03.04,Century,,0,0,0,,{\blur0.25\fsp4\1c&H5A78FC&\pos(963.4,512.8)}Now, Commercial Break
 Dialogue: 1,0:10:00.57,0:10:03.04,signs,,0,0,0,,{\blur0.25\b1\1c&H5A78FC&\1c&H3C3D44&\fs30\fsp\pos(965,688.8)}Bakemonogatari episode four Mayoi snail part two first half finished\N\N\N\N{\fs27}(TV Broadcast Time)
-Dialogue: 0,0:10:07.75,0:10:09.21,signs,,0,0,0,,{\blur0.25\1a&40&\fs60\fnAbyss TS\pos(930,180)}Rouhaku Park
+Comment: 0,0:10:07.75,0:10:09.21,signs,,0,0,0,,{\blur0.25\1a&40&\fs60\fnAbyss TS\pos(930,180)}Rouhaku Park
 Dialogue: 0,0:10:10.50,0:10:14.30,block,,0,0,0,,{\an5\fscx1000\fscy500\1c&HEBEBEC&\pos(1024,450)\clip(m 1149 408 l 1149 495 876 474 879 394)}A
 Dialogue: 0,0:10:10.50,0:10:14.30,block,,0,0,0,,{\an5\fscx1000\fscy500\pos(931.5,579)\clip(m 1080 533 l 1082 615 1028 617 804 596 798 555 908 560 917 518)\1c&HEAEBEC&}A
 Dialogue: 1,0:10:10.50,0:10:14.30,signs,,0,0,0,,{\frx354\fry348\frz357.047\fay0.013\1c&H1B1B1B&\blur0.25\fs52.5\pos(1017,469)}Bike Parking
