@@ -404,14 +404,18 @@ ID00045_01.png
 ID00045_02.png
 ツマリ、=In other words
 迷子=a lost child
-ツテ奴ナノダロウ=right?#qc matches subs
 
 ID00045_03.png
+ツマリ、=In other words
+迷子=a lost child
+ツテ奴ナノダラウ=right?#qc matches subs
+
+ID00045_04.png
 ヒタギ=Hitagi
 暦=Koyomi
 真宵=Mayoi
 
-ID00045_04.png
+ID00045_05.png
 第貳話=Episode 2
 dai. ni. wa.
 まよいマイマイＢ=Mayoi Snail B
