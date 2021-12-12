@@ -525,7 +525,7 @@ dai. san. wa.
 yuu. gi. shi. you. sho. tai.    min. chou.
 
 ID00063_01.png
-ドウヤラ、コレハ単純ニ=It seems it’s simply
+ドウヤラ、コレハ單純ニ=It seems it’s simply
 照レテイルラシイー=embarrassing#qc matches subs
 
 ID00065_01.png
@@ -567,14 +567,14 @@ ID00071_01.png
 ID00071_02.png
 足元ダケヲ見テ=It seemed she was
 驅ケ下リテキ=running down
-テイル感じ=following only
+テイル感ジ=following only
 ダツタ。=her feet.#qc matches second half of the subs
 
 ID00071_03.png
 ？？？？
 
 ID00073_01.png
-陸月拾壹日=June 11th
+陸月拾壹日、=June 11th
 日曜日=Sunday.(already translated)
 
 ID00073_02.png
@@ -600,10 +600,10 @@ ID00075_03.png
 無口デ=Quietly#qc matches first half of the subs
 
 ID00075_04.png
-恥ズカシソウニ=looking embarrassed#qc matches middle of the subs
+恥ヅカシサウニ=looking embarrassed#qc matches middle of the subs
 
 ID00077_01.png
-自轉車ノ後部坐席二、=On the back seat of the bike
+自轉車ノ後部坐席ニ、=On the back seat of the bike
 千石=Sengoku
 ヲ乗セテ=sat#(was made allowed/to sit, but this probably works better image wise)
 
@@ -619,7 +619,7 @@ ID00077_03.png
 戦場ヶ原ヒタギ=Hitagi Senjougahara
 
 ID00077_04.png
-神原 駿河=Suruga Kanbaru
+神原駿河=Suruga Kanbaru
 
 ID00077_05.png
 第肆話=Episode 4
@@ -633,20 +633,15 @@ ID00079_01.png
 ブルマ=bloomers
 Bed.
 
-ID00079_02.png#replace?
-撫子=Nadeko
-暦=Koyomi
-駿河=Suruga
-
 ID00081_01.png
-ナデコチヤン=Nadeko
+ナデシコチヤン=Nadeshiko#?
 
 ID00081_02.png
 ナデコチヤン=Nadeko
 
 ID00081_03.png
 「暦オ兄チャン……=“Koyomi-onii-chan…
-オレニ、神原サン」=Me, by Kanbaru”
+ソレニ、神原サン」=Me, by Kanbaru”
 
 ヤガテ、千石ハ言ツタ。=Eventually, Sengoku said.
 アクマデモ物静カニ。=Having been quiet until the end.
@@ -679,10 +674,10 @@ ID00083_05.png
 キメ細カイ、=smooth,#qc matches middle of the subs
 
 ID00083_06.png
-奇麗ナ肌ダ=beautiful skin.
+綺麗ナ肌ダ=beautiful skin.
 
 ID00085_01.png
-（オ泊リ會ガアルトカ、ナイトカ、）=(Whether or not there would be a sleepover)
+（オ泊リ會ガアルトカ、ナントカ、）=(Whether or not there would be a sleepover)
 
 ID00085_02.png
 第肆話=Episode 4
@@ -695,10 +690,10 @@ ID00087_01.png
 「シ、シシシシシ失禮シマスツ!」=“E-E-E-E-E-Excuse me!”
 
 ID00087_02.png
-千石 撫子=Nadeko Sengoku
+千石撫子=Nadeko Sengoku
 
 ID00089_01.png
-「ア……暦オ兄チャン。待ツタダヨ」=“Ah, Koyomi-onii-chan! I was waiting for you.”
+「ア……暦オ兄チャン。待ツテダヨ」=“Ah, Koyomi-onii-chan! I was waiting for you.”
 
 ID00089_02.png
 腰ヲベルトデ=Tightly fastened around her waist
@@ -739,13 +734,13 @@ dai. go. wa.
 yuu. gi. shi. you. sho. tai.    min. chou.
 
 ID00095_01.png
-忍野 メメ=Meme Oshino
+忍野メメ=Meme Oshino
 
 ID00095_02.png
-忍野 忍=Shinobu Oshino
+忍野忍=Shinobu Oshino
 
 ID00097_01.png
-囘想 終ハリ=reminiscence over
+囘想終ハリ=reminiscence over
 
 ID00097_02.png
 第伍話=Episode 5
@@ -756,7 +751,7 @@ yuu. gi. shi. you. sho. tai.    min. chou.
 
 ID00099_01.png
 コンナニモ、=Since even this
-奇麗ナノダカラ、=is beautiful#qc matches subs
+綺麗ナノダカラ=is beautiful#qc matches subs
 
 ID00101_01.png
 全ク、薄イ=Completely pale#qc matches subs
