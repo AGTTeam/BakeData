@@ -437,18 +437,17 @@ dai. ni. wa.
 yuu. gi. shi. you. sho. tai.    min. chou.
 
 ID00053_01.png
-怪異トハ=Aberration’s are
+怪異トハ=Aberrations are
 
 ID00053_02.png
-世界ナソノモノノナンダカラ=caused by the world itself.#qc matches subs
+世界ソノモノナノダカラ=caused by the world itself.#qc matches subs
 
 ID00053_03.png
 吸血鬼=vampire
 
 ID00053_04.png
 蝸牛ノ迷子デス=The lost child of a snail.
-katatsumuri. mai. go.
-(can’t the read numbers)
+katatsumuri. (060606) mai. (060) go. (606)
 
 ID00053_05.png
 第貳話=Episode 2
@@ -478,7 +477,7 @@ ID00055_04.png
 澁々=involuntarily
 
 ID00055_05.png
-神原駿河はハ、=Suruga Kanbaru had
+神原駿河ハ、=Suruga Kanbaru had
 
 ID00057_01.png
 リュツクサツクヲ=Carrying a rucksack
@@ -516,7 +515,7 @@ ID00059_04.png
 正反対=exact opposites#qc matches subs
 
 ID00059_05.png
-裏返し=reversal#qc matches subs
+裏返シ=reversal#qc matches subs
 
 ID00061_01.png
 第參話=Episode 3

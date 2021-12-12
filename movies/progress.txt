@@ -29,7 +29,7 @@ ID08411: Check
 Episode 4
 ID00045: Sign (missing custom "Namishiro Park" signs)
 ID00043: Sign
-ID00049: WIP*
+ID00049: Sign
 ID00047: WIP*
 
 Episode 5
