@@ -234,11 +234,11 @@ There are no trash bins. Take your trash home with you. No dogs allowed in the p
 童貞がうつる=Virginity is infectious
 
 ID13808.png
-綴=bind#qc
-hotchkiss.#?
+綴
+hotchkiss=stapler.
 
 ID13810.png
-今囘勘辨シテアゲル=I'll let you off just this once.
+今囘ハコレデ勘辨シテアゲル=I'll let you off just this once.
 kon. kai.    kan. ben.
 -戦場ヶ原 ヒタギ-=Hitagi Senjougahara
 
@@ -254,7 +254,7 @@ ID13820.png
 sen. jou. ga. hara. hi. ta. gi.
 
 ID13822.png
-チガイカン=misunderstanding
+チガイカン= (カンチガイ) misunderstanding
 
 ID13826.png
 kinshi.=forbidden#qc
@@ -415,7 +415,7 @@ ID13998.png
 嫌ナ言ヒ方=Harsh tone
 
 ID14000.png
-汗=sweat#replace with icon?
+汚=dirty
 
 ID14002.png
 言ヒワケ=excuse#qc
