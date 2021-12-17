@@ -40,7 +40,7 @@ ID00003: Sign
 
 Episode 6
 ID00057: Sign
-ID00055: WIP***
+ID00055: Sign
 ID00059: WIP***
 ID00061: WIP***
 ID08416: Check
