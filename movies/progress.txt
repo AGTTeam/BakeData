@@ -42,7 +42,7 @@ Episode 6
 ID00057: Sign
 ID00055: Sign
 ID00059: Sign
-ID00061: WIP***
+ID00061: Sign
 ID08416: Check
 ID08417: Check
 ID08418: Check
