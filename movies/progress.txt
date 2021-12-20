@@ -48,7 +48,7 @@ ID08417: Check
 ID08418: Check
 
 Episode 7
-ID00065: WIP***
+ID00065: Sign
 ID00063: WIP**
 ID00069: WIP**
 ID08437: Check
