@@ -50,7 +50,7 @@ ID08418: Check
 Episode 7
 ID00065: Sign
 ID00063: Sign (missing last cut with Koyomi's silhouette)
-ID00069: WIP**
+ID00069: Sign
 ID08437: Check
 
 Episode 8
