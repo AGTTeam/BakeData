@@ -54,7 +54,7 @@ ID00069: Sign
 ID08437: Check
 
 Episode 8
-ID00067: WIP**
+ID00067: Sign
 ID00007: Sign
 
 Episode 9
