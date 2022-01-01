@@ -58,7 +58,7 @@ ID00067: Sign
 ID00007: Sign
 
 Episode 9
-ID00073: WIP**
+ID00073: Sign (missing cloud cut, need to clean up ID00073_00a image)
 ID00071: WIP**
 ID00077: WIP**
 ID08523: Check
