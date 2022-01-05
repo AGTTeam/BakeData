@@ -62,8 +62,8 @@ ID00073: Sign (missing cloud cut, need to clean up ID00073_00a image)
 ID00071: Sign
 ID00077: Sign
 ID00075: Sign (includes cuts from episode 10)
-ID00081: WIP*** (includes cuts from episode 10)
-ID00079: WIP**
+ID00081: Sign (includes cuts from episode 10)
+ID00079: WIP***
 ID08523: Check
 
 Episode 10
