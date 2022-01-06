@@ -63,16 +63,16 @@ ID00071: Sign
 ID00077: Sign
 ID00075: Sign (includes cuts from episode 10)
 ID00081: Sign (includes cuts from episode 10)
-ID00079: WIP***
+ID00079: Sign
 ID08523: Check
 
 Episode 10
-ID00085: WIP**
-ID00083: WIP**
-ID08507: WIP**
+ID00085: Sign (missing lens flare cut)
+ID00083: Sign
+ID08507: Check
 
 Episode 11
-ID00089: WIP**
+ID00089: WIP***
 ID00087: WIP**
 ID08377: Check
 ID08378: Check
