@@ -72,20 +72,20 @@ ID00083: Sign
 ID08507: Check
 
 Episode 11
-ID00089: WIP***
-ID00087: WIP**
+ID00089: Sign
+ID00087: WIP***
 ID08377: Check
 ID08378: Check
 ID08379: Check
 
 Episode 12
-ID00093: WIP**
-ID00091: WIP**
-ID00097: WIP**
+ID00093: WIP*** (missing X sign)
+ID00091: WIP***
 ID08424: Check
 ID08455: Check
 
 Episode 13
+ID00097: WIP**
 ID00095: WIP**
 ID00101: WIP**
 ID08427: Check
@@ -110,6 +110,6 @@ ID00104: Check - ED2 (used video2x to upscale)
 ID00106: Check - ED3
 ID00005: Cut   - Karen Extra, added cuts from episode 5
 ID00009: Cut   - Tsukihi Extra, added cuts from episode 2
-ID00013: WIP   - Meme Extra
-ID00015: WIP   - Shinobu
-ID00017: WIP   - Shinobu Extra
+ID00013: WIP** - Meme Extra
+ID00015: Cut   - Shinobu, added cuts from episodes 1-2
+ID00017: Cut   - Shinobu Extra
