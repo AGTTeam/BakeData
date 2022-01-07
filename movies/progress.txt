@@ -73,7 +73,7 @@ ID08507: Check
 
 Episode 11
 ID00089: Sign
-ID00087: WIP***
+ID00087: Sign
 ID08377: Check
 ID08378: Check
 ID08379: Check
