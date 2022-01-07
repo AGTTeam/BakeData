@@ -110,6 +110,6 @@ ID00104: Check - ED2 (used video2x to upscale)
 ID00106: Check - ED3
 ID00005: Cut   - Karen Extra, added cuts from episode 5
 ID00009: Cut   - Tsukihi Extra, added cuts from episode 2
-ID00013: WIP** - Meme Extra
-ID00015: Cut   - Shinobu, added cuts from episodes 1-2
-ID00017: Cut   - Shinobu Extra
+ID00013: Sign  - Meme Extra (missing meme sigarette in hand cut)
+ID00015: Sign  - Shinobu (donut sign not panning)
+ID00017: Sign  - Shinobu Extra
