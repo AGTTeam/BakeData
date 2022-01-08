@@ -79,23 +79,23 @@ ID08378: Check
 ID08379: Check
 
 Episode 12
-ID00093: WIP*** (missing X sign)
+ID00093: Sign (missing X sign)
 ID00091: WIP***
 ID08424: Check
 ID08455: Check
 
 Episode 13
-ID00097: WIP**
-ID00095: WIP**
-ID00101: WIP**
+ID00097: WIP*** (includes cuts from episodes 3-4-5)
+ID00095: WIP***
+ID00101: WIP*** (includes cuts from episode 11)
 ID08427: Check
 
 Episode 14
 ID08488: Check
 
 Episode 15
-ID00099: WIP**
-ID00011: WIP**
+ID00099: WIP***
+ID00011: WIP***
 ID08404: Check
 ID08509: Check
 ID08510: Check
