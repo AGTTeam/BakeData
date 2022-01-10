@@ -103,7 +103,7 @@ ID08511: Check
 
 
 Misc
-ID00109: WIP*  - Original OP movie
+ID00109: Cut   - Original OP movie (missing 2 clips, used video2x_ncnn to upscale)
 ID00001: WIP   - Original Staff credits
 ID00102: Check - ED1
 ID00104: Check - ED2 (used video2x to upscale)
