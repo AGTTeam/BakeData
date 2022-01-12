@@ -753,6 +753,12 @@ ID00099_01.png
 コンナニモ、=Since even this
 綺麗ナノダカラ=is beautiful#qc matches subs
 
+ID00099_02.png
+囘想=reminiscence
+
+ID00099_03.png
+囘想 終ハリ=reminiscence over
+
 ID00101_01.png
 全ク、薄イ=Completely pale#qc matches subs
 
