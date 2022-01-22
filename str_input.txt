@@ -507,7 +507,7 @@ Yシャツ=
 清楚な服=Prim & Proper
 体操服=PE Kit
 白いツーピース=White Two Piece
-普段着=Backpack
+普段着=Normal
 スクール水着=Swimsuit
 ジャージ=Tracksuit
 ダメージデニム=Ripped Jeans
@@ -4324,7 +4324,7 @@ BGM再生=Play BGM
 !FILE:ID14277.bin
 きみを更生させてみせます=
 さしてすることもないんだけれど=
-相変わらず嫌な言い方するよね=
+相変わらず嫌な言い方するよね=Your tone is harsh as always.
 凡俗といってもいいかも=
 何でもは知らないわよ　知ってることだけ=I don't know everything. I just know what I know.
 知ってることだけ=
