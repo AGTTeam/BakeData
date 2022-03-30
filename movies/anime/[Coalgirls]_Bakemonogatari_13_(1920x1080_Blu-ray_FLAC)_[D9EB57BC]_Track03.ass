@@ -306,7 +306,7 @@ Dialogue: 3,0:19:04.87,0:19:07.23,Default,,0,0,0,,It's like hypnotism.
 Dialogue: 3,0:19:07.64,0:19:11.50,Default,,0,0,0,,One gaze into those eyes can captivate someone for life.
 Dialogue: 3,0:19:12.92,0:19:14.46,Default,,0,0,0,,So what?
 Dialogue: 3,0:19:14.85,0:19:17.34,Default,,0,0,0,,Nothing, just a thought I had.
-Dialogue: 3,0:19:17.36,0:19:23.86,Default,,0,0,0,,{Senjougahara hitagi, hachikuji mayoi, kanbaru suruga, sengoku nadeko, hanekawa tsubasa.  these are the lowest priority in the ep, below the class schedule.}
+Dialogue: 3,0:19:17.36,0:19:23.86,Default,,0,0,0,,{Senjougahara hitagi, hachikuji mayoi, kanbaru suruga, sengoku nadeko, Tsubasa Hanekawa.  these are the lowest priority in the ep, below the class schedule.}
 Dialogue: 3,0:19:17.68,0:19:21.37,Default,,0,0,0,,Maybe it has something to do
 Dialogue: 3,0:19:21.37,0:19:23.37,Default,,0,0,0,,with why you're so popular with the girls all of a sudden.
 Dialogue: 3,0:19:26.62,0:19:30.73,Default,,0,0,0,,Sorry, I'm just teasing.
@@ -843,14 +843,14 @@ Dialogue: 1,0:06:11.60,0:06:16.02,Century,,0,0,0,,{\1c&H4F4AD1&\blur0.5\an5\fs52
 Dialogue: 0,0:06:17.77,0:06:19.52,signs,,0,0,0,,{\blur0.5\1a&H16\b0\pos(360,331.5)\1c&HE8F7F8&}Bicycle parking
 Dialogue: 0,0:06:17.77,0:06:19.52,signs,,0,0,0,,{\blur0.5\1a&H24\b0\1c&HE8F7F8&\pos(649.5,769.5)\frz29.862}Gymnasium
 Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\fs52.5\pos(998,357)\1a&H23}New email
-Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\fs60\pos(954,632)\1a&H23}Hanekawa Tsubasa
+Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\fs60\pos(954,632)\1a&H23}Tsubasa Hanekawa
 Dialogue: 0,0:06:28.95,0:06:30.45,signs,,0,0,0,,{\an5\blur0.5\pos(1126,786)\1a&H23}1 new
 Dialogue: 0,0:07:26.05,0:07:28.55,block,,0,0,0,,{\an7\1c&H8DC4D8&\pos(611,538)\fscx3771.25\fscy895}A
 Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\blur0.5\fs105\pos(1177,253)}Voice Actress/Chiwa Saito
 Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\blur0.5\pos(1446,537)}(Works for Aim Enterprise)
 Dialogue: 1,0:07:26.05,0:07:28.55,signs,,0,0,0,,{\an7\fs42\blur0.5\pos(633,563)}Born in Saitama Prefecture. Voices strong-willed women,\Nweak women, lively girls and even boys.\NPlayed animals, non-human characters,\Neccentric guys speaking in low voice,\Nand other types of characters too.
 Dialogue: 1,0:07:26.05,0:07:28.55,Century,,0,0,0,,{\blur0.5\1c&H0E1B23&\fs37.5\pos(345,874)}Animation Number 79
-Dialogue: 0,0:08:05.58,0:08:07.59,signs,,0,0,0,,{\1c&H000A1A&\b1\fs75\blur0.5\move(1225.5,282,1257.2,281.998,30,1990)\alpha&32&}Rouhaku Park
+Dialogue: 0,0:08:05.58,0:08:07.59,signs,,0,0,0,,{\1c&H000A1A&\b1\fs75\blur0.5\move(1225.5,282,1257.2,281.998,30,1990)\alpha&32&}Rohaku Park
 Dialogue: 1,0:08:58.89,0:08:59.89,signs,,0,0,0,,{\blur1\1a&H33\fsp3\1c&H2C27DF&\pos(960,143)}Naoetsu High School Third Year Timetable
 Dialogue: 1,0:09:03.89,0:09:05.27,Century,,0,0,0,,{\an5\blur0.5\fs90\1c&H5E271B&\pos(1427,546)}Unpleasant calculations
 Dialogue: 1,0:09:03.89,0:09:05.27,Century,,0,0,0,,{\blur0.5\1c&H5E271B&\pos(372,452)}Animation Number 157
@@ -2246,18 +2246,18 @@ Dialogue: 0,0:05:51.45,0:05:51.49,signs,,0,0,0,,{\fscx99.8445\fscy99.8445\fs60\b
 Dialogue: 0,0:05:51.49,0:05:51.53,signs,,0,0,0,,{\fscx99.7124\fscy99.7124\fs60\blur0.49856\frz345.103\pos(1576.87,475.862)}Tsubasa
 Dialogue: 0,0:05:51.53,0:05:51.58,signs,,0,0,0,,{\fscx99.7662\fscy99.7662\fs60\blur0.49883\frz345.103\pos(1576.59,475.228)}Tsubasa
 Dialogue: 0,0:05:51.58,0:05:51.62,signs,,0,0,0,,{\fscx99.7775\fscy99.7775\fs60\blur0.49889\frz345.103\pos(1576.93,475.658)}Tsubasa
-Dialogue: 0,0:05:51.62,0:05:51.66,signs,,0,0,0,,{\pos(960,720)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.66,0:05:51.70,signs,,0,0,0,,{\pos(959.393,720.37)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.70,0:05:51.74,signs,,0,0,0,,{\pos(959.724,719.904)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.74,0:05:51.78,signs,,0,0,0,,{\pos(959.729,720.467)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.78,0:05:51.83,signs,,0,0,0,,{\pos(959.386,719.868)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.83,0:05:51.87,signs,,0,0,0,,{\pos(960.069,720.476)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.87,0:05:51.91,signs,,0,0,0,,{\pos(960.033,719.967)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.91,0:05:51.95,signs,,0,0,0,,{\pos(959.735,720.503)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.95,0:05:51.99,signs,,0,0,0,,{\pos(959.953,719.886)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:51.99,0:05:52.03,signs,,0,0,0,,{\pos(960,720.48)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:52.03,0:05:52.08,signs,,0,0,0,,{\pos(959.691,719.927)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
-Dialogue: 0,0:05:52.08,0:05:52.12,signs,,0,0,0,,{\pos(959.96,720.352)\fs75\blur0.5\1a&H33}Hanekawa Tsubasa
+Dialogue: 0,0:05:51.62,0:05:51.66,signs,,0,0,0,,{\pos(960,720)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.66,0:05:51.70,signs,,0,0,0,,{\pos(959.393,720.37)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.70,0:05:51.74,signs,,0,0,0,,{\pos(959.724,719.904)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.74,0:05:51.78,signs,,0,0,0,,{\pos(959.729,720.467)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.78,0:05:51.83,signs,,0,0,0,,{\pos(959.386,719.868)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.83,0:05:51.87,signs,,0,0,0,,{\pos(960.069,720.476)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.87,0:05:51.91,signs,,0,0,0,,{\pos(960.033,719.967)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.91,0:05:51.95,signs,,0,0,0,,{\pos(959.735,720.503)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.95,0:05:51.99,signs,,0,0,0,,{\pos(959.953,719.886)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:51.99,0:05:52.03,signs,,0,0,0,,{\pos(960,720.48)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:52.03,0:05:52.08,signs,,0,0,0,,{\pos(959.691,719.927)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
+Dialogue: 0,0:05:52.08,0:05:52.12,signs,,0,0,0,,{\pos(959.96,720.352)\fs75\blur0.5\1a&H33}Tsubasa Hanekawa
 Dialogue: 0,0:05:52.12,0:05:52.16,Century,,0,0,0,,{\blur0.5\frz270\pos(1020,435)\1a&H44\1c&H404040&}Animation number 26
 Dialogue: 0,0:05:52.16,0:05:52.20,Century,,0,0,0,,{\blur0.5\frz270\pos(1020.33,435.318)\1a&H44\1c&H404040&}Animation number 26
 Dialogue: 0,0:05:52.20,0:05:52.24,Century,,0,0,0,,{\blur0.5\frz270\pos(1020.32,434.886)\1a&H44\1c&H404040&}Animation number 26
