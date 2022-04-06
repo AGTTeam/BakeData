@@ -7,95 +7,95 @@ Check  - rendered, needs to be checked in-game
 Done   - final
 
 Episode 1
-ID00021: Sign/temp Check
-ID00019: Sign
-ID00025: Sign
-ID00023: Sign
+ID00021: Check
+ID00019: Check
+ID00025: Check
+ID00023: Check
 ID08408: Check
-ID00029: Sign
-ID00027: Sign
+ID00029: Check
+ID00027: Check
 
 Episode 2
-ID00033: Sign
-ID00031: Sign
-ID00037: Sign
-ID00035: Sign
+ID00033: Render
+ID00031: Render
+ID00037: Render
+ID00035: Render
 
 Episode 3
-ID00041: Sign
-ID00039: Sign
+ID00041: Render
+ID00039: Render
 ID08411: Check
 
 Episode 4
-ID00045: Sign (missing custom "Namishiro Park" signs)
-ID00043: Sign
-ID00049: Sign
-ID00047: Sign
+ID00045: Render (missing custom "Namishiro Park" signs)
+ID00043: Render
+ID00049: Render
+ID00047: Render
 
 Episode 5
-ID00053: Sign
-ID00051: Sign
+ID00053: Render
+ID00051: Render
 ID08489: Check
-ID00003: Sign
+ID00003: Render
 
 Episode 6
-ID00057: Sign
-ID00055: Sign
-ID00059: Sign
-ID00061: Sign
+ID00057: Render
+ID00055: Render
+ID00059: Render
+ID00061: Render
 ID08416: Check
 ID08417: Check
 ID08418: Check
 
 Episode 7
-ID00065: Sign
-ID00063: Sign (missing last cut with Koyomi's silhouette)
-ID00069: Sign
+ID00065: Render
+ID00063: Render (missing last cut with Koyomi's silhouette)
+ID00069: Render
 ID08437: Check
 
 Episode 8
-ID00067: Sign
-ID00007: Sign
+ID00067: Render
+ID00007: Render
 
 Episode 9
-ID00073: Sign (missing cloud cut, need to clean up ID00073_00a image)
-ID00071: Sign
-ID00077: Sign
-ID00075: Sign (includes cuts from episode 10)
-ID00081: Sign (includes cuts from episode 10)
-ID00079: Sign
+ID00073: Render (missing cloud cut, need to clean up ID00073_00a image)
+ID00071: Render
+ID00077: Render
+ID00075: Render (includes cuts from episode 10)
+ID00081: Render (includes cuts from episode 10)
+ID00079: Render
 ID08523: Check
 
 Episode 10
-ID00085: Sign (missing lens flare cut)
-ID00083: Sign
+ID00085: Render (missing lens flare cut)
+ID00083: Render
 ID08507: Check
 
 Episode 11
-ID00089: Sign
-ID00087: Sign
+ID00089: Render
+ID00087: Render
 ID08377: Check
 ID08378: Check
 ID08379: Check
 
 Episode 12
-ID00093: Sign (missing X sign)
-ID00091: Sign
+ID00093: Render (missing X sign)
+ID00091: Render
 ID08424: Check
 ID08455: Check
 
 Episode 13
-ID00097: Sign (includes cuts from episodes 3-4-5)
-ID00095: Sign
-ID00101: Sign (includes cuts from episode 11)
+ID00097: Render (includes cuts from episodes 3-4-5)
+ID00095: Render
+ID00101: Render (includes cuts from episode 11)
 ID08427: Check
 
 Episode 14
 ID08488: Check
 
 Episode 15
-ID00099: Sign
-ID00011: Sign
+ID00099: Render
+ID00011: Render
 ID08404: Check
 ID08509: Check
 ID08510: Check
