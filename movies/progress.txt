@@ -39,10 +39,10 @@ ID08489: Check
 ID00003: Check
 
 Episode 6
-ID00057: Render
-ID00055: Render
-ID00059: Render
-ID00061: Render
+ID00057: Check
+ID00055: Check
+ID00059: Check
+ID00061: Check
 ID08416: Check
 ID08417: Check
 ID08418: Check
@@ -108,8 +108,8 @@ ID00001: WIP    - Original Staff credits
 ID00102: Check  - ED1
 ID00104: Check  - ED2 (used video2x to upscale)
 ID00106: Check  - ED3
-ID00005: Render - Karen Extra
-ID00009: Render - Tsukihi Extra
-ID00013: Render - Meme Extra
-ID00015: Render - Shinobu
-ID00017: Render - Shinobu Extra
+ID00005: Check  - Karen Extra
+ID00009: Check  - Tsukihi Extra
+ID00013: Check  - Meme Extra
+ID00015: Check  - Shinobu
+ID00017: Check  - Shinobu Extra
