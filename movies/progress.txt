@@ -16,14 +16,14 @@ ID00029: Check
 ID00027: Check
 
 Episode 2
-ID00033: Render
-ID00031: Render
-ID00037: Render
-ID00035: Render
+ID00033: Check
+ID00031: Check
+ID00037: Check
+ID00035: Check
 
 Episode 3
-ID00041: Render
-ID00039: Render
+ID00041: Check
+ID00039: Check
 ID08411: Check
 
 Episode 4
@@ -103,13 +103,13 @@ ID08511: Check
 
 
 Misc
-ID00109: Cut   - Original OP movie (missing 2 clips, used video2x_ncnn to upscale)
-ID00001: WIP   - Original Staff credits
-ID00102: Check - ED1
-ID00104: Check - ED2 (used video2x to upscale)
-ID00106: Check - ED3
-ID00005: Cut   - Karen Extra
-ID00009: Cut   - Tsukihi Extra
-ID00013: Sign  - Meme Extra (missing meme sigarette in hand cut)
-ID00015: Sign  - Shinobu (donut sign not panning)
-ID00017: Sign  - Shinobu Extra
+ID00109: Cut    - Original OP movie (missing 2 clips, used video2x_ncnn to upscale)
+ID00001: WIP    - Original Staff credits
+ID00102: Check  - ED1
+ID00104: Check  - ED2 (used video2x to upscale)
+ID00106: Check  - ED3
+ID00005: Render - Karen Extra
+ID00009: Render - Tsukihi Extra
+ID00013: Render - Meme Extra
+ID00015: Render - Shinobu
+ID00017: Render - Shinobu Extra
