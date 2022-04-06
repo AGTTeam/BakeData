@@ -27,16 +27,16 @@ ID00039: Check
 ID08411: Check
 
 Episode 4
-ID00045: Render (missing custom "Namishiro Park" signs)
-ID00043: Render
-ID00049: Render
-ID00047: Render
+ID00045: Check
+ID00043: Check
+ID00049: Check
+ID00047: Check
 
 Episode 5
-ID00053: Render
-ID00051: Render
+ID00053: Check
+ID00051: Check
 ID08489: Check
-ID00003: Render
+ID00003: Check
 
 Episode 6
 ID00057: Render
