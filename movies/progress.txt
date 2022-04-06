@@ -48,20 +48,20 @@ ID08417: Check
 ID08418: Check
 
 Episode 7
-ID00065: Render
-ID00063: Render (missing last cut with Koyomi's silhouette)
-ID00069: Render
+ID00065: Check
+ID00063: Check (missing last cut with Koyomi's silhouette)
+ID00069: Check
 ID08437: Check
 
 Episode 8
-ID00067: Render
-ID00007: Render
+ID00067: Check
+ID00007: Sign
 
 Episode 9
-ID00073: Render (missing cloud cut, need to clean up ID00073_00a image)
-ID00071: Render
-ID00077: Render
-ID00075: Render (includes cuts from episode 10)
+ID00073: Check (missing cloud cut)
+ID00071: Check
+ID00077: Check
+ID00075: Check (includes cuts from episode 10)
 ID00081: Render (includes cuts from episode 10)
 ID00079: Render
 ID08523: Check
