@@ -55,47 +55,47 @@ ID08437: Check
 
 Episode 8
 ID00067: Check
-ID00007: Sign
+ID00007: Check
 
 Episode 9
 ID00073: Check (missing cloud cut)
 ID00071: Check
 ID00077: Check
 ID00075: Check (includes cuts from episode 10)
-ID00081: Render (includes cuts from episode 10)
-ID00079: Render
+ID00081: Check (includes cuts from episode 10)
+ID00079: Check
 ID08523: Check
 
 Episode 10
-ID00085: Render (missing lens flare cut)
-ID00083: Render
+ID00085: Check (missing lens flare cut)
+ID00083: Check
 ID08507: Check
 
 Episode 11
-ID00089: Render
-ID00087: Render
+ID00089: Check
+ID00087: Check
 ID08377: Check
 ID08378: Check
 ID08379: Check
 
 Episode 12
-ID00093: Render (missing X sign)
-ID00091: Render
+ID00093: Check (missing X sign)
+ID00091: Check
 ID08424: Check
 ID08455: Check
 
 Episode 13
-ID00097: Render (includes cuts from episodes 3-4-5)
-ID00095: Render
-ID00101: Render (includes cuts from episode 11)
+ID00097: Check (includes cuts from episodes 3-4-5)
+ID00095: Check
+ID00101: Check (includes cuts from episode 11)
 ID08427: Check
 
 Episode 14
 ID08488: Check
 
 Episode 15
-ID00099: Render
-ID00011: Render
+ID00099: Check
+ID00011: Check
 ID08404: Check
 ID08509: Check
 ID08510: Check
