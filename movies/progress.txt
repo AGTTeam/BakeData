@@ -59,7 +59,7 @@ ID00007: Check
 
 Episode 9
 ID00073: Check (missing cloud cut)
-ID00071: Check
+ID00071: Render#currently missing?
 ID00077: Check
 ID00075: Check (includes cuts from episode 10)
 ID00081: Check (includes cuts from episode 10)
@@ -67,7 +67,7 @@ ID00079: Check
 ID08523: Check
 
 Episode 10
-ID00085: Check (missing lens flare cut)
+ID00085: Render
 ID00083: Check
 ID08507: Check
 
