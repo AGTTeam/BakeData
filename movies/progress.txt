@@ -7,9 +7,9 @@ Check  - rendered, needs to be checked in-game
 Done   - final
 
 Episode 1
-ID00021: Render#increased sign font size
-ID00019: Render#increased sign font size
-ID00025: Render#increased sign font size
+ID00021: Check
+ID00019: Check
+ID00025: Check
 ID00023: Check
 ID08408: Check
 ID00029: Check
@@ -49,7 +49,7 @@ ID08418: Check
 
 Episode 7
 ID00065: Check
-ID00063: Render
+ID00063: Check
 ID00069: Check
 ID08437: Check
 
@@ -58,16 +58,16 @@ ID00067: Check
 ID00007: Check
 
 Episode 9
-ID00073: Render
-ID00071: Render#currently missing?
-ID00077: Render#added missing sign translations
+ID00073: Check
+ID00071: Check
+ID00077: Check
 ID00075: Check (includes cuts from episode 10)
 ID00081: Check (includes cuts from episode 10)
 ID00079: Check
 ID08523: Check
 
 Episode 10
-ID00085: Render
+ID00085: Check
 ID00083: Check
 ID08507: Check
 
@@ -79,8 +79,8 @@ ID08378: Check
 ID08379: Check
 
 Episode 12
-ID00093: Render
-ID00091: Render#(hopefully) fixed bad ending lyrics crop
+ID00093: Check
+ID00091: Check
 ID08424: Check
 ID08455: Check
 
