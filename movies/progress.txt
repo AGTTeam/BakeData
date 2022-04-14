@@ -7,13 +7,13 @@ Check  - rendered, needs to be checked in-game
 Done   - final
 
 Episode 1
-ID00021: Check
-ID00019: Check
-ID00025: Check
-ID00023: Check
+ID00021: Check#phantom seen
+ID00019: Check#p
+ID00025: Check#p
+ID00023: Check#p
 ID08408: Check
-ID00029: Check
-ID00027: Check
+ID00029: Check#p
+ID00027: Check#p
 
 Episode 2
 ID00033: Check
