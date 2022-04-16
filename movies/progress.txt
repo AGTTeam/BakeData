@@ -55,7 +55,7 @@ ID08437: Check
 
 Episode 8
 ID00067: Check
-ID00007: Check
+ID00007: Render#updated subs to use curly speech marks
 
 Episode 9
 ID00073: Check
