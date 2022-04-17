@@ -10,51 +10,51 @@ Episode 1
 ID00021: Check#phantom seen
 ID00019: Check#p
 ID00025: Check#p
-ID00023: Check#p
+ID00023: Check#p fade end
 ID08408: Check
 ID00029: Check#p
-ID00027: Check#p
+ID00027: Check#p fade end
 
 Episode 2
-ID00033: Check
-ID00031: Check
-ID00037: Check
-ID00035: Check
+ID00033: Check#p
+ID00031: Check#p fade end
+ID00037: Render#fade mid
+ID00035: Render#fade end
 
 Episode 3
-ID00041: Check
-ID00039: Check
+ID00041: Check#p fade mid
+ID00039: Render#fade start & end
 ID08411: Check
 
 Episode 4
-ID00045: Check
-ID00043: Check
-ID00049: Check
-ID00047: Check
+ID00045: Check#p fade mid
+ID00043: Render#fade end
+ID00049: Check#p
+ID00047: Render#fade end
 
 Episode 5
-ID00053: Check
-ID00051: Check
+ID00053: Check#p
+ID00051: Check#p fade end
 ID08489: Check
 ID00003: Check
 
 Episode 6
-ID00057: Check
-ID00055: Check
-ID00059: Check
-ID00061: Check
+ID00057: Check#p
+ID00055: Check#p fade end
+ID00059: Check#p fade mid & end
+ID00061: Render
 ID08416: Check
 ID08417: Check
 ID08418: Check
 
 Episode 7
-ID00065: Check
-ID00063: Check
-ID00069: Check
+ID00065: Check#p
+ID00063: Check#p fade end
+ID00069: Check#grey box visible at beginning-emulator error?
 ID08437: Check
 
 Episode 8
-ID00067: Check
+ID00067: Check#p fades throughout
 ID00007: Render#updated subs to use curly speech marks
 
 Episode 9
@@ -105,7 +105,7 @@ ID08511: Check
 Misc
 ID00109: Cut    - Original OP movie (missing 2 clips, used video2x_ncnn to upscale)
 ID00001: WIP    - Original Staff credits
-ID00102: Check  - ED1
+ID00102: Check  - ED1#p
 ID00104: Check  - ED2 (used video2x to upscale)
 ID00106: Check  - ED3
 ID00005: Check  - Karen Extra
