@@ -10,92 +10,92 @@ Episode 1
 ID00021: Check#phantom seen
 ID00019: Check#p
 ID00025: Check#p
-ID00023: Check#p fade end
+ID00023: Check#p
 ID08408: Check
 ID00029: Check#p
-ID00027: Check#p fade end
+ID00027: Check#p
 
 Episode 2
 ID00033: Check#p
-ID00031: Check#p fade end
-ID00037: Render#fade mid
-ID00035: Render#fade end
+ID00031: Check#p
+ID00037: Check
+ID00035: Check
 
 Episode 3
-ID00041: Check#p fade mid
-ID00039: Render#fade start & end
+ID00041: Check#p
+ID00039: Check
 ID08411: Check
 
 Episode 4
-ID00045: Check#p fade mid
-ID00043: Render#fade end
+ID00045: Check#p
+ID00043: Check
 ID00049: Check#p
-ID00047: Render#fade end
+ID00047: Check
 
 Episode 5
 ID00053: Check#p
-ID00051: Check#p fade end
+ID00051: Check#p
 ID08489: Check
-ID00003: Check#p fade end
+ID00003: Check#p
 
 Episode 6
 ID00057: Check#p
-ID00055: Check#p fade end
-ID00059: Check#p fade mid & end
-ID00061: Render
+ID00055: Check#p
+ID00059: Check#p
+ID00061: Check
 ID08416: Check
 ID08417: Check
 ID08418: Check
 
 Episode 7
 ID00065: Check#p
-ID00063: Check#p fade end
+ID00063: Check#p
 ID00069: Check#grey box visible at beginning-emulator error?
 ID08437: Check
 
 Episode 8
-ID00067: Check#p fades throughout
-ID00007: Render#updated subs to use curly speech marks - fade end
+ID00067: Check#p
+ID00007: Check
 
 Episode 9
-ID00073: Render#shortened subs
-ID00071: Check#p fade end
+ID00073: Check
+ID00071: Check#p
 ID00077: Check#p
-ID00075: Check (includes cuts from episode 10)#p fade end
-ID00081: Render (includes cuts from episode 10)
-ID00079: Check#p fade end
+ID00075: Check (includes cuts from episode 10)#p
+ID00081: Check (includes cuts from episode 10)
+ID00079: Check#p
 ID08523: Check
 
 Episode 10
 ID00085: Check#p
-ID00083: Check#p fade end
+ID00083: Check#p
 ID08507: Check
 
 Episode 11
 ID00089: Check#p
-ID00087: Check#p fade end
+ID00087: Check#p
 ID08377: Check
 ID08378: Check
 ID08379: Check
 
 Episode 12
 ID00093: Check#p
-ID00091: Check#p fade end
+ID00091: Check#p
 ID08424: Check
 ID08455: Check
 
 Episode 13
 ID00097: Check (includes cuts from episodes 3-4-5)#p
-ID00095: Check#p fade mid & end
-ID00101: Render (includes cuts from episode 11)#original ep wasn't hidden - fade mid
+ID00095: Check#p
+ID00101: Check (includes cuts from episode 11)
 ID08427: Check
 
 Episode 14
 ID08488: Check
 
 Episode 15
-ID00099: Check#p fade end
-ID00011: Check#fades mid + may benefit from black background at end
+ID00099: Check#p
+ID00011: Check
 ID08404: Check
 ID08509: Check
 ID08510: Check
@@ -109,7 +109,7 @@ ID00102: Check  - ED1#p
 ID00104: Check  - ED2 (used video2x to upscale)#p
 ID00106: Check  - ED3#p
 ID00005: Check  - Karen Extra#p
-ID00009: Render  - Tsukihi Extra
+ID00009: Check  - Tsukihi Extra
 ID00013: Check  - Meme Extra#p fades mid
 ID00015: Check  - Shinobu#p fade end
 ID00017: Check  - Shinobu Extra#p
