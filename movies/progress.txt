@@ -110,6 +110,6 @@ ID00104: Check  - ED2 (used video2x to upscale)#p
 ID00106: Check  - ED3#p
 ID00005: Check  - Karen Extra#p
 ID00009: Check  - Tsukihi Extra
-ID00013: Check  - Meme Extra#p fades mid
-ID00015: Check  - Shinobu#p fade end
+ID00013: Check  - Meme Extra#p
+ID00015: Check  - Shinobu#p
 ID00017: Check  - Shinobu Extra#p
