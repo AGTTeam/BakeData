@@ -775,7 +775,7 @@ In the “Battle Record”, you can check your highscores|and play style. Under 
 称号一覧=Achievements
 ：=
 （時間：分）=(Hr : M)
-勝        敗=Wins     Losses
+勝        敗=Wins       Losses
 回=x
 個=Lines
 シングルモード勝敗回数=Single Mode Matches
