@@ -788,7 +788,7 @@ In the “Battle Record”, you can check your highscores|and play style. Under 
 最も使用回数が多い台詞=Most Reused Line
 パーフェクト勝利回数=Perfect Wins
 ジャンケンでの連続勝利回数=Consecutive Wins at Rock-Paper-Scissors
-達成率    ／=Progress   ／
+達成率    ／=Progress    ／
 ？？=
 aaa=
 aaa=
