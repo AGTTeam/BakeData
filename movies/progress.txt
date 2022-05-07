@@ -11,8 +11,7 @@ ID00021: Check#phantom seen
 ID00019: Check#p
 ID00025: Check#p
 ID00023: Check#p
-ID08408: Check
-ID00029: Check#p
+ID08408: Done#grey box - Copper: 40 g. Iron: 25 g. Nickel: 15 g.|Concealing embarrassment: 5 g.|Add 97 kg of bad intentions,|and you’ve got my statement.
 ID00027: Check#p
 
 Episode 2
@@ -24,7 +23,7 @@ ID00035: Check#p
 Episode 3
 ID00041: Check#p
 ID00039: Check#p
-ID08411: Check
+ID08411: Done#“That maid smelted my heart!” or|“I smelt for cat ears!” and that sort of thing.
 
 Episode 4
 ID00045: Check#p
@@ -35,7 +34,7 @@ ID00047: Check#p
 Episode 5
 ID00053: Check#p
 ID00051: Check#p
-ID08489: Check
+ID08489: Check#?
 ID00003: Check#p
 
 Episode 6
@@ -43,15 +42,15 @@ ID00057: Check#p
 ID00055: Check#p
 ID00059: Check#p
 ID00061: Check#p
-ID08416: Check
-ID08417: Check
-ID08418: Check
+ID08416: Done#grey box - What I meant is lovesick.
+ID08417: Done#If you’re not guilty of anything,|you shouldn’t mind explaining.
+ID08418: Done#grey box - Above is water, below is great fire.|What is it?
 
 Episode 7
 ID00065: Check#p
 ID00063: Check#p
 ID00069: Check#grey box visible at beginning-emulator error?
-ID08437: Check
+ID08437: Done#grey box - Huh? Were we talking about whether or not|I wear panties under my bike shorts?
 
 Episode 8
 ID00067: Check#p
@@ -64,46 +63,46 @@ ID00077: Check#p
 ID00075: Check (includes cuts from episode 10)#p
 ID00081: Check (includes cuts from episode 10)#p
 ID00079: Check#p
-ID08523: Check
+ID08523: Done#I don’t think you should ever try to understand their actions in a simplistic way.
 
 Episode 10
 ID00085: Check#p
 ID00083: Check#p
-ID08507: Check
+ID08507: Check#?
 
 Episode 11
 ID00089: Check#p
 ID00087: Check#p
-ID08377: Check
-ID08378: Check
-ID08379: Check
+ID08377: Check#Nya-ha-ha-ha~
+ID08378: Check#Nya-ha-ha.
+ID08379: Check#Nya-hah-hah-hah-hah!
 
 Episode 12
 ID00093: Check#p
 ID00091: Check#p
-ID08424: Check
+ID08424: Done#|I love how kind you are. How cute you are.|How you’re like my prince who comes dashing in to save me whenever I’m in trouble.
 ID08455: Done#And you don't think looking forward to such|a development is unfair to me?!
 
 Episode 13
 ID00097: Check (includes cuts from episodes 3-4-5)#p
 ID00095: Check#p
 ID00101: Check (includes cuts from episode 11)#p
-ID08427: Check
+ID08427: Done#I have an excellent VA playing my role.
 
 Episode 14
-ID08488: Check
+ID08488: Done#If you try to do it all yourself,|the mummy hunter will become a pyramid.
 
 Episode 15
 ID00099: Check#p
 ID00011: Check#p
-ID08404: Check
-ID08509: Check
-ID08510: Check
-ID08511: Check
+ID08404: Done#Those are just words-nyot how you feel.
+ID08509: Done#Shinobu show move
+ID08510: Done#Tsubasa show move
+ID08511: Check#Is it ‘Help... Shinobu.’? (shorter clip)
 
 
 Misc
-ID00109: Cut    - Original OP movie (missing 2 clips, used video2x_ncnn to upscale)
+ID00109: Render    - Original OP movie (used video2x_ncnn to upscale)
 ID00001: WIP    - Original Staff credits
 ID00102: Check  - ED1#p
 ID00104: Check  - ED2 (used video2x to upscale)#p
