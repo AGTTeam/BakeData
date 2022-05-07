@@ -102,8 +102,8 @@ ID08511: Check#Is it ‘Help... Shinobu.’? (shorter clip)
 
 
 Misc
-ID00109: Render    - Original OP movie (used video2x_ncnn to upscale)
-ID00001: WIP    - Original Staff credits
+ID00109: Check  - Original OP movie (used video2x_ncnn to upscale)
+ID00001: N/A    - Original Staff credits
 ID00102: Check  - ED1#p
 ID00104: Check  - ED2 (used video2x to upscale)#p
 ID00106: Check  - ED3#p
