@@ -86,7 +86,7 @@ While it can still be installed, the patched game will ignore the install data, 
 
 This was done because editing the install data to make it function with the patch would make it incompatible with the original game, and that install data serves no purpose to those playing the game with an emulator/the majority of people playing on hardware.
 
-REMINISCENCE/DELUSION SUBTILTES
+REMINISCENCE/DELUSION SUBTITLES
 #todo
 
 
