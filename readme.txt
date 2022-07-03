@@ -21,19 +21,7 @@ Thank you for downloading this English patch of Bakemonogatari Portable for the 
                    *       I. Patching Instructions        *
                    *****************************************
 
-Before you can play the translation, you'll need to patch the game on your computer using a legal copy of the ROM. There are two methods by which this can be done, online, via the ROMhacking.net download page, or locally by downloading an additional piece of software.
-
-                         ============================
-                                ONLINE METHOD        
-                         ============================
-
--On the ROMhacking.net download page, navigate to “Patch Online NOW!” under the ‘Links’ header.
--Upload your ROM using the “Choose File” button where prompted.
--Click “Apply Patch”, and wait for the download to complete. You should now have a patched copy of the ROM, labelled ‘-input source- (patched)’.
-
-                         ===========================
-                               SOFTWARE METHOD      
-                         ===========================
+Before you can play the translation, you'll need to patch the game on your computer using a legal copy of the ROM. 
 
 -Download DeltaPatcher from https://www.romhacking.net/utilities/704/
 -Extract the file, and run either DeltaPatcher or DeltaPatcherLite
@@ -48,7 +36,7 @@ Before you can play the translation, you'll need to patch the game on your compu
                    *               II. Notes               *
                    *****************************************
 EMULATION ISSUES
-When emulating the game, you may experience some visual errors (lines, spots on models etc), if the internal rendering resolution or texture scaling is set too high. Some movies may also have grey box(es) near the beginning, which can’t be fixed by changing the settings.
+When emulating the game, you may experience some visual errors (lines, spots on models etc) if postprocessing shaders are applied, or if the internal rendering resolution or texture scaling is set too high. Some movies may also have grey box(es) near the beginning, which can’t be fixed by changing the settings.
 
 Both of these issues are present in the unpatched game and do not happen on real hardware.
 
