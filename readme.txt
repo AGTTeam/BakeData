@@ -52,6 +52,9 @@ The game contains an ad hoc mode allowing two local players to go head-to-head. 
 BATTLE UI DISPLAY
 It is not explained in the game controls, but pressing the up/down buttons on the D-Pad toggles the display for the battle gauges and subtitles respectively.
 
+REMINISCENCE/DELUSION SUBTITLES
+Despite our best efforts, we were unable to find a way to successfully add subtitles to the Reminiscence and Delusion modes. Unless someone else is able to make a breakthrough, this will not be updated in future versions.
+
                          ==========================
                           CHANGES MADE TO THE GAME 
                          ==========================
@@ -73,9 +76,6 @@ The install data was designed to speed up load times for those playing the game 
 While it can still be installed, the patched game will ignore the install data, and the prompt to install it when starting a new game has also been removed.
 
 This was done because editing the install data to make it function with the patch would make it incompatible with the original game, and that install data serves no purpose to those playing the game with an emulator/the majority of people playing on hardware.
-
-REMINISCENCE/DELUSION SUBTITLES
-#todo
 
 
                    *****************************************
